@@ -1,4 +1,4 @@
-# ZymCTRL Peptide Generation & Bitterness Prediction Workflow
+# De novo design of bitter petides workflow
 
 A computational workflow for generating artificial peptides using ZymCTRL and predicting their bitterness with BitterPep-GCN. Includes a KNIME workflow for sequence preparation and physicochemical analysis of the generated peptides.
 
