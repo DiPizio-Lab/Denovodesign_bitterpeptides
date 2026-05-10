@@ -1,0 +1,786 @@
+"index","AMINO ACID / PEPTIDE","3-letter-code","BILN","HELM","TASTE QUALITY","canonical"
+1,"ESKIL","GluSerLysIleLeu","E-S-K-I-L","PEPTIDE1{E.S.K.I.L}$$$$V2.0","bitter",1
+9,"A","Ala","A","PEPTIDE1{A}$$$$V2.0","not bitter",1
+10,"AA","AlaAla","A-A","PEPTIDE1{A.A}$$$$V2.0","not bitter",1
+11,"AAA","AlaAlaAla","A-A-A","PEPTIDE1{A.A.A}$$$$V2.0","not bitter",1
+12,"AAAA","AlaAlaAlaAla","A-A-A-A","PEPTIDE1{A.A.A.A}$$$$V2.0","not bitter",1
+13,"AAAAAA","AlaAlaAlaAlaAlaAla","A-A-A-A-A-A","PEPTIDE1{A.A.A.A.A.A}$$$$V2.0","not bitter",1
+14,"AAG","AlaAlaGly","A-A-G","PEPTIDE1{A.A.G}$$$$V2.0","not bitter",1
+15,"AAL","AlaAlaLeu","A-A-L","PEPTIDE1{A.A.L}$$$$V2.0","bitter",1
+16,"AAPY","AlaAlaProTyr","A-A-P-Y","PEPTIDE1{A.A.P.Y}$$$$V2.0","not bitter",1
+17,"AD","AlaAsp","A-D","PEPTIDE1{A.D}$$$$V2.0","bitter",1
+18,"ADE","AlaAspGlu","A-D-E","PEPTIDE1{A.D.E}$$$$V2.0","bitter",1
+19,"AE","AlaGlu","A-E","PEPTIDE1{A.E}$$$$V2.0","not bitter",1
+20,"AEA","AlaGluAla","A-E-A","PEPTIDE1{A.E.A}$$$$V2.0","not bitter",1
+21,"AEASALR","AlaGluAlaSerAlaLeuArg","A-E-A-S-A-L-R","PEPTIDE1{A.E.A.S.A.L.R}$$$$V2.0","not bitter",1
+22,"AED","AlaGluAsp","A-E-D","PEPTIDE1{A.E.D}$$$$V2.0","not bitter",1
+23,"AF","AlaPhe","A-F","PEPTIDE1{A.F}$$$$V2.0","bitter",1
+24,"AG","AlaGly","A-G","PEPTIDE1{A.G}$$$$V2.0","not bitter",1
+25,"AGA","AlaGlyAla","A-G-A","PEPTIDE1{A.G.A}$$$$V2.0","not bitter",1
+26,"AGAGPTP","AlaGlyAlaGlyProThrPro","A-G-A-G-P-T-P","PEPTIDE1{A.G.A.G.P.T.P}$$$$V2.0","not bitter",1
+27,"AGFAGDDAPR","AlaGlyPheAlaGlyAspAspAlaProArg","A-G-F-A-G-D-D-A-P-R","PEPTIDE1{A.G.F.A.G.D.D.A.P.R}$$$$V2.0","not bitter",1
+28,"AGG","AlaGlyGly","A-G-G","PEPTIDE1{A.G.G}$$$$V2.0","not bitter",1
+29,"AGLQFPVGR","AlaGlyLeuGlnPheProValGlyArg","A-G-L-Q-F-P-V-G-R","PEPTIDE1{A.G.L.Q.F.P.V.G.R}$$$$V2.0","bitter",1
+30,"AH","AlaHis","A-H","PEPTIDE1{A.H}$$$$V2.0","not bitter",1
+31,"AIA","AlaIleAla","A-I-A","PEPTIDE1{A.I.A}$$$$V2.0","bitter",1
+32,"AIPPKKNQDKTEIPTIN","AlaIleProProLysLysAsnGlnAspLysThrGluIleProThrIleAsn","A-I-P-P-K-K-N-Q-D-K-T-E-I-P-T-I-N","PEPTIDE1{A.I.P.P.K.K.N.Q.D.K.T.E.I.P.T.I.N}$$$$V2.0","bitter",1
+33,"AIPPKKNQDKTEIPTINTIASGEPT","AlaIleProProLysLysAsnGlnAspLysThrGluIleProThrIleAsnThrIleAlaSerGlyGluProThr","A-I-P-P-K-K-N-Q-D-K-T-E-I-P-T-I-N-T-I-A-S-G-E-P-T","PEPTIDE1{A.I.P.P.K.K.N.Q.D.K.T.E.I.P.T.I.N.T.I.A.S.G.E.P.T}$$$$V2.0","bitter",1
+34,"AKLTSLEEECQR","AlaLysLeuThrSerLeuGluGluGluCysGlnArg","A-K-L-T-S-L-E-E-E-C-Q-R","PEPTIDE1{A.K.L.T.S.L.E.E.E.C.Q.R}$$$$V2.0","not bitter",1
+35,"AL","AlaLeu","A-L","PEPTIDE1{A.L}$$$$V2.0","bitter",1
+36,"ALDPLPT","AlaLeuAspProLeuProThr","A-L-D-P-L-P-T","PEPTIDE1{A.L.D.P.L.P.T}$$$$V2.0","not bitter",1
+37,"AM","AlaMet","A-M","PEPTIDE1{A.M}$$$$V2.0","not bitter",1
+38,"AMAPKHKEMPFPKYPVEPF","AlaMetAlaProLysHisLysGluMetProPheProLysTyrProValGluProPhe","A-M-A-P-K-H-K-E-M-P-F-P-K-Y-P-V-E-P-F","PEPTIDE1{A.M.A.P.K.H.K.E.M.P.F.P.K.Y.P.V.E.P.F}$$$$V2.0","bitter",1
+40,"AMEK","AlaMetGluLys","A-M-E-K","PEPTIDE1{A.M.E.K}$$$$V2.0","not bitter",1
+41,"ANPGPVRDLR","AlaAsnProGlyProValArgAspLeuArg","A-N-P-G-P-V-R-D-L-R","PEPTIDE1{A.N.P.G.P.V.R.D.L.R}$$$$V2.0","not bitter",1
+42,"AP","AlaPro","A-P","PEPTIDE1{A.P}$$$$V2.0","bitter",1
+43,"APAP","AlaProAlaPro","A-P-A-P","PEPTIDE1{A.P.A.P}$$$$V2.0","not bitter",1
+44,"APFPEVF","AlaProPheProGluValPhe","A-P-F-P-E-V-F","PEPTIDE1{A.P.F.P.E.V.F}$$$$V2.0","bitter",1
+45,"APFPEVFG","AlaProPheProGluValPheGly","A-P-F-P-E-V-F-G","PEPTIDE1{A.P.F.P.E.V.F.G}$$$$V2.0","bitter",1
+46,"APFPQVFG","AlaProPheProGlnValPheGly","A-P-F-P-Q-V-F-G","PEPTIDE1{A.P.F.P.Q.V.F.G}$$$$V2.0","bitter",1
+47,"APHGKEMPFPKYPVEPF","AlaProHisGlyLysGluMetProPheProLysTyrProValGluProPhe","A-P-H-G-K-E-M-P-F-P-K-Y-P-V-E-P-F","PEPTIDE1{A.P.H.G.K.E.M.P.F.P.K.Y.P.V.E.P.F}$$$$V2.0","bitter",1
+48,"APK","AlaProLys","A-P-K","PEPTIDE1{A.P.K}$$$$V2.0","bitter",1
+49,"APKHKEMPFPKYPVEPF","AlaProLysHisLysGluMetProPheProLysTyrProValGluProPhe","A-P-K-H-K-E-M-P-F-P-K-Y-P-V-E-P-F","PEPTIDE1{A.P.K.H.K.E.M.P.F.P.K.Y.P.V.E.P.F}$$$$V2.0","bitter",1
+50,"AQALQAQA","AlaGlnAlaLeuGlnAlaGlnAla","A-Q-A-L-Q-A-Q-A","PEPTIDE1{A.Q.A.L.Q.A.Q.A}$$$$V2.0","not bitter",1
+51,"AQQKEPMIGVNQELAY","AlaGlnGlnLysGluProMetIleGlyValAsnGlnGluLeuAlaTyr","A-Q-Q-K-E-P-M-I-G-V-N-Q-E-L-A-Y","PEPTIDE1{A.Q.Q.K.E.P.M.I.G.V.N.Q.E.L.A.Y}$$$$V2.0","not bitter",1
+52,"AQTQSLVYPFPGPIPNSLPQNIPPLTQ","AlaGlnThrGlnSerLeuValTyrProPheProGlyProIleProAsnSerLeuProGlnAsnIleProProLeuThrGln","A-Q-T-Q-S-L-V-Y-P-F-P-G-P-I-P-N-S-L-P-Q-N-I-P-P-L-T-Q","PEPTIDE1{A.Q.T.Q.S.L.V.Y.P.F.P.G.P.I.P.N.S.L.P.Q.N.I.P.P.L.T.Q}$$$$V2.0","bitter",1
+53,"AR","AlaArg","A-R","PEPTIDE1{A.R}$$$$V2.0","not bitter",1
+54,"ARHPHPHLSFM","AlaArgHisProHisProHisLeuSerPheMet","A-R-H-P-H-P-H-L-S-F-M","PEPTIDE1{A.R.H.P.H.P.H.L.S.F.M}$$$$V2.0","bitter",1
+55,"ASCNGVCSPFDIPPCGSPLCRCIPVGLVIGKCRNPYG","AlaSerCysAsnGlyValCysSerProPheAspIleProProCysGlySerProLeuCysArgCysIleProValGlyLeuValIleGlyLysCysArgAsnProTyrGly","A-S-C-N-G-V-C-S-P-F-D-I-P-P-C-G-S-P-L-C-R-C-I-P-V-G-L-V-I-G-K-C-R-N-P-Y-G","PEPTIDE1{A.S.C.N.G.V.C.S.P.F.D.I.P.P.C.G.S.P.L.C.R.C.I.P.V.G.L.V.I.G.K.C.R.N.P.Y.G}$$$$V2.0","bitter",1
+56,"ASF","AlaSerPhe","A-S-F","PEPTIDE1{A.S.F}$$$$V2.0","not bitter",1
+57,"AV","AlaVal","A-V","PEPTIDE1{A.V}$$$$V2.0","bitter",1
+58,"AVPYPQR","AlaValProTyrProGlnArg","A-V-P-Y-P-Q-R","PEPTIDE1{A.V.P.Y.P.Q.R}$$$$V2.0","not bitter",1
+59,"AY","AlaTyr","A-Y","PEPTIDE1{A.Y}$$$$V2.0","bitter",1
+60,"AYFYPEL","AlaTyrPheTyrProGluLeu","A-Y-F-Y-P-E-L","PEPTIDE1{A.Y.F.Y.P.E.L}$$$$V2.0","bitter",1
+61,"AYFYPELF","AlaTyrPheTyrProGluLeuPhe","A-Y-F-Y-P-E-L-F","PEPTIDE1{A.Y.F.Y.P.E.L.F}$$$$V2.0","bitter",1
+65,"C","Cys","C","PEPTIDE1{C}$$$$V2.0","not bitter",1
+66,"CKEVVRNANE","CysLysGluValValArgAsnAlaAsnGlu","C-K-E-V-V-R-N-A-N-E","PEPTIDE1{C.K.E.V.V.R.N.A.N.E}$$$$V2.0","not bitter",1
+67,"CMT","CysMetThr","C-M-T","PEPTIDE1{C.M.T}$$$$V2.0","not bitter",1
+68,"CPR","CysProArg","C-P-R","PEPTIDE1{C.P.R}$$$$V2.0","not bitter",1
+128,"D","Asp","D","PEPTIDE1{D}$$$$V2.0","not bitter",1
+129,"DA","AspAla","D-A","PEPTIDE1{D.A}$$$$V2.0","not bitter",1
+130,"DAGVIAGLNVLR","AspAlaGlyValIleAlaGlyLeuAsnValLeuArg","D-A-G-V-I-A-G-L-N-V-L-R","PEPTIDE1{D.A.G.V.I.A.G.L.N.V.L.R}$$$$V2.0","not bitter",1
+132,"DAPL","AspAlaProLeu","D-A-P-L","PEPTIDE1{D.A.P.L}$$$$V2.0","bitter",1
+133,"DAPYDYK","AspAlaProTyrAspTyrLys","D-A-P-Y-D-Y-K","PEPTIDE1{D.A.P.Y.D.Y.K}$$$$V2.0","not bitter",1
+134,"DAWP","AspAlaTrpPro","D-A-W-P","PEPTIDE1{D.A.W.P}$$$$V2.0","not bitter",1
+135,"DD","AspAsp","D-D","PEPTIDE1{D.D}$$$$V2.0","not bitter",1
+136,"DE","AspGlu","D-E","PEPTIDE1{D.E}$$$$V2.0","not bitter",1
+137,"DEE","AspGluGlu","D-E-E","PEPTIDE1{D.E.E}$$$$V2.0","not bitter",1
+138,"DEEYPDL","AspGluGluTyrProAspLeu","D-E-E-Y-P-D-L","PEPTIDE1{D.E.E.Y.P.D.L}$$$$V2.0","not bitter",1
+139,"DEEYPDLS","AspGluGluTyrProAspLeuSer","D-E-E-Y-P-D-L-S","PEPTIDE1{D.E.E.Y.P.D.L.S}$$$$V2.0","bitter",1
+140,"DEGDLDF","AspGluGlyAspLeuAspPhe","D-E-G-D-L-D-F","PEPTIDE1{D.E.G.D.L.D.F}$$$$V2.0","not bitter",1
+141,"DES","AspGluSer","D-E-S","PEPTIDE1{D.E.S}$$$$V2.0","not bitter",1
+142,"DF","AspPhe","D-F","PEPTIDE1{D.F}$$$$V2.0","bitter",1
+144,"DG","AspGly","D-G","PEPTIDE1{D.G}$$$$V2.0","not bitter",1
+145,"DGEKVDFDD","AspGlyGluLysValAspPheAspAsp","D-G-E-K-V-D-F-D-D","PEPTIDE1{D.G.E.K.V.D.F.D.D}$$$$V2.0","not bitter",1
+146,"DGFP","AspGlyPhePro","D-G-F-P","PEPTIDE1{D.G.F.P}$$$$V2.0","bitter",1
+147,"DGML","AspGlyMetLeu","D-G-M-L","PEPTIDE1{D.G.M.L}$$$$V2.0","bitter",1
+149,"DIAMEK","AspIleAlaMetGluLys","D-I-A-M-E-K","PEPTIDE1{D.I.A.M.E.K}$$$$V2.0","not bitter",1
+150,"DIKQM","AspIleLysGlnMet","D-I-K-Q-M","PEPTIDE1{D.I.K.Q.M}$$$$V2.0","bitter",1
+151,"DK","AspLys","D-K","PEPTIDE1{D.K}$$$$V2.0","not bitter",1
+152,"DL","AspLeu","D-L","PEPTIDE1{D.L}$$$$V2.0","bitter",1
+154,"DMP","AspMetPro","D-M-P","PEPTIDE1{D.M.P}$$$$V2.0","not bitter",1
+155,"DMPIQAFLLYQQPVLGPVR","AspMetProIleGlnAlaPheLeuLeuTyrGlnGlnProValLeuGlyProValArg","D-M-P-I-Q-A-F-L-L-Y-Q-Q-P-V-L-G-P-V-R","PEPTIDE1{D.M.P.I.Q.A.F.L.L.Y.Q.Q.P.V.L.G.P.V.R}$$$$V2.0","not bitter",1
+156,"DNEDTP","AspAsnGluAspThrPro","D-N-E-D-T-P","PEPTIDE1{D.N.E.D.T.P}$$$$V2.0","not bitter",1
+158,"DP","AspPro","D-P","PEPTIDE1{D.P}$$$$V2.0","not bitter",1
+159,"DPNDPDMKY","AspProAsnAspProAspMetLysTyr","D-P-N-D-P-D-M-K-Y","PEPTIDE1{D.P.N.D.P.D.M.K.Y}$$$$V2.0","not bitter",1
+160,"DQR","AspGlnArg","D-Q-R","PEPTIDE1{D.Q.R}$$$$V2.0","not bitter",1
+161,"DTDEPN","AspThrAspGluProAsn","D-T-D-E-P-N","PEPTIDE1{D.T.D.E.P.N}$$$$V2.0","bitter",1
+162,"DV","AspVal","D-V","PEPTIDE1{D.V}$$$$V2.0","not bitter",1
+163,"DVL","AspValLeu","D-V-L","PEPTIDE1{D.V.L}$$$$V2.0","bitter",1
+164,"DY","AspTyr","D-Y","PEPTIDE1{D.Y}$$$$V2.0","bitter",1
+165,"DYR","AspTyrArg","D-Y-R","PEPTIDE1{D.Y.R}$$$$V2.0","not bitter",1
+166,"E","Glu","E","PEPTIDE1{E}$$$$V2.0","not bitter",1
+167,"EAGIQ","GluAlaGlyIleGln","E-A-G-I-Q","PEPTIDE1{E.A.G.I.Q}$$$$V2.0","not bitter",1
+168,"ECG","GluCysGly","E-C-G","PEPTIDE1{E.C.G}$$$$V2.0","not bitter",1
+169,"EDE","GluAspGlu","E-D-E","PEPTIDE1{E.D.E}$$$$V2.0","not bitter",1
+170,"EDG","GluAspGly","E-D-G","PEPTIDE1{E.D.G}$$$$V2.0","not bitter",1
+171,"EDIAMEK","GluAspIleAlaMetGluLys","E-D-I-A-M-E-K","PEPTIDE1{E.D.I.A.M.E.K}$$$$V2.0","not bitter",1
+172,"EDV","GluAspVal","E-D-V","PEPTIDE1{E.D.V}$$$$V2.0","bitter",1
+173,"EEAEGT","GluGluAlaGluGlyThr","E-E-A-E-G-T","PEPTIDE1{E.E.A.E.G.T}$$$$V2.0","bitter",1
+174,"EEDGK","GluGluAspGlyLys","E-E-D-G-K","PEPTIDE1{E.E.D.G.K}$$$$V2.0","not bitter",1
+175,"EEE","GluGluGlu","E-E-E","PEPTIDE1{E.E.E}$$$$V2.0","not bitter",1
+176,"EEEVVEEVE","GluGluGluValValGluGluValGlu","E-E-E-V-V-E-E-V-E","PEPTIDE1{E.E.E.V.V.E.E.V.E}$$$$V2.0","not bitter",1
+177,"EEFLK","GluGluPheLeuLys","E-E-F-L-K","PEPTIDE1{E.E.F.L.K}$$$$V2.0","bitter",1
+178,"EEL","GluGluLeu","E-E-L","PEPTIDE1{E.E.L}$$$$V2.0","not bitter",1
+179,"EELNVPG","GluGluLeuAsnValProGly","E-E-L-N-V-P-G","PEPTIDE1{E.E.L.N.V.P.G}$$$$V2.0","not bitter",1
+180,"EEN","GluGluAsn","E-E-N","PEPTIDE1{E.E.N}$$$$V2.0","bitter",1
+181,"EEV","GluGluVal","E-E-V","PEPTIDE1{E.E.V}$$$$V2.0","bitter",1
+182,"EEY","GluGluTyr","E-E-Y","PEPTIDE1{E.E.Y}$$$$V2.0","not bitter",1
+183,"EGS","GluGlySer","E-G-S","PEPTIDE1{E.G.S}$$$$V2.0","not bitter",1
+184,"EI","GluIle","E-I","PEPTIDE1{E.I}$$$$V2.0","bitter",1
+185,"EIVPN","GluIleValProAsn","E-I-V-P-N","PEPTIDE1{E.I.V.P.N}$$$$V2.0","bitter",1
+187,"EKVNELSK","GluLysValAsnGluLeuSerLys","E-K-V-N-E-L-S-K","PEPTIDE1{E.K.V.N.E.L.S.K}$$$$V2.0","not bitter",1
+188,"ELEEL","GluLeuGluGluLeu","E-L-E-E-L","PEPTIDE1{E.L.E.E.L}$$$$V2.0","bitter",1
+189,"EMPFPK","GluMetProPheProLys","E-M-P-F-P-K","PEPTIDE1{E.M.P.F.P.K}$$$$V2.0","not bitter",1
+191,"EPAD","GluProAlaAsp","E-P-A-D","PEPTIDE1{E.P.A.D}$$$$V2.0","bitter",1
+192,"EPEPEPEPE","GluProGluProGluProGluProGlu","E-P-E-P-E-P-E-P-E","PEPTIDE1{E.P.E.P.E.P.E.P.E}$$$$V2.0","not bitter",1
+193,"EPMIGVNQELAYFYPELFR","GluProMetIleGlyValAsnGlnGluLeuAlaTyrPheTyrProGluLeuPheArg","E-P-M-I-G-V-N-Q-E-L-A-Y-F-Y-P-E-L-F-R","PEPTIDE1{E.P.M.I.G.V.N.Q.E.L.A.Y.F.Y.P.E.L.F.R}$$$$V2.0","not bitter",1
+194,"EQE","GluGlnGlu","E-Q-E","PEPTIDE1{E.Q.E}$$$$V2.0","not bitter",1
+195,"EQGGEQG","GluGlnGlyGlyGluGlnGly","E-Q-G-G-E-Q-G","PEPTIDE1{E.Q.G.G.E.Q.G}$$$$V2.0","not bitter",1
+196,"ERYLGYLEQ","GluArgTyrLeuGlyTyrLeuGluGln","E-R-Y-L-G-Y-L-E-Q","PEPTIDE1{E.R.Y.L.G.Y.L.E.Q}$$$$V2.0","bitter",1
+197,"ESLPALP","GluSerLeuProAlaLeuPro","E-S-L-P-A-L-P","PEPTIDE1{E.S.L.P.A.L.P}$$$$V2.0","not bitter",1
+199,"EVGYGY","GluValGlyTyrGlyTyr","E-V-G-Y-G-Y","PEPTIDE1{E.V.G.Y.G.Y}$$$$V2.0","not bitter",1
+200,"EVLK","GluValLeuLys","E-V-L-K","PEPTIDE1{E.V.L.K}$$$$V2.0","not bitter",1
+201,"EVLN","GluValLeuAsn","E-V-L-N","PEPTIDE1{E.V.L.N}$$$$V2.0","bitter",1
+208,"F","Phe","F","PEPTIDE1{F}$$$$V2.0","bitter",1
+209,"FADSL","PheAlaAspSerLeu","F-A-D-S-L","PEPTIDE1{F.A.D.S.L}$$$$V2.0","not bitter",1
+210,"FAGDDAPR","PheAlaGlyAspAspAlaProArg","F-A-G-D-D-A-P-R","PEPTIDE1{F.A.G.D.D.A.P.R}$$$$V2.0","not bitter",1
+211,"FALPQYLK","PheAlaLeuProGlnTyrLeuLys","F-A-L-P-Q-Y-L-K","PEPTIDE1{F.A.L.P.Q.Y.L.K}$$$$V2.0","bitter",1
+212,"FALPQYLKT","PheAlaLeuProGlnTyrLeuLysThr","F-A-L-P-Q-Y-L-K-T","PEPTIDE1{F.A.L.P.Q.Y.L.K.T}$$$$V2.0","bitter",1
+213,"FD","PheAsp","F-D","PEPTIDE1{F.D}$$$$V2.0","not bitter",1
+214,"FE","PheGlu","F-E","PEPTIDE1{F.E}$$$$V2.0","not bitter",1
+215,"FEGGSIE","PheGluGlyGlySerIleGlu","F-E-G-G-S-I-E","PEPTIDE1{F.E.G.G.S.I.E}$$$$V2.0","not bitter",1
+216,"FF","PhePhe","F-F","PEPTIDE1{F.F}$$$$V2.0","bitter",1
+217,"FFEE","PhePheGluGlu","F-F-E-E","PEPTIDE1{F.F.E.E}$$$$V2.0","not bitter",1
+219,"FFF","PhePhePhe","F-F-F","PEPTIDE1{F.F.F}$$$$V2.0","bitter",1
+220,"FFG","PhePheGly","F-F-G","PEPTIDE1{F.F.G}$$$$V2.0","bitter",1
+221,"FFGG","PhePheGlyGly","F-F-G-G","PEPTIDE1{F.F.G.G}$$$$V2.0","bitter",1
+222,"FFPE","PhePheProGlu","F-F-P-E","PEPTIDE1{F.F.P.E}$$$$V2.0","bitter",1
+223,"FFPG","PhePheProGly","F-F-P-G","PEPTIDE1{F.F.P.G}$$$$V2.0","bitter",1
+224,"FFPGG","PhePheProGlyGly","F-F-P-G-G","PEPTIDE1{F.F.P.G.G}$$$$V2.0","bitter",1
+225,"FFPP","PhePheProPro","F-F-P-P","PEPTIDE1{F.F.P.P}$$$$V2.0","bitter",1
+226,"FFPR","PhePheProArg","F-F-P-R","PEPTIDE1{F.F.P.R}$$$$V2.0","bitter",1
+230,"FFRPFFRPFF","PhePheArgProPhePheArgProPhePhe","F-F-R-P-F-F-R-P-F-F","PEPTIDE1{F.F.R.P.F.F.R.P.F.F}$$$$V2.0","bitter",1
+231,"FFSDKIAK","PhePheSerAspLysIleAlaLys","F-F-S-D-K-I-A-K","PEPTIDE1{F.F.S.D.K.I.A.K}$$$$V2.0","bitter",1
+232,"FFVAPFPEVF","PhePheValAlaProPheProGluValPhe","F-F-V-A-P-F-P-E-V-F","PEPTIDE1{F.F.V.A.P.F.P.E.V.F}$$$$V2.0","bitter",1
+233,"FFVAPFPEVFGK","PhePheValAlaProPheProGluValPheGlyLys","F-F-V-A-P-F-P-E-V-F-G-K","PEPTIDE1{F.F.V.A.P.F.P.E.V.F.G.K}$$$$V2.0","bitter",1
+234,"FFVAPFPQVF","PhePheValAlaProPheProGlnValPhe","F-F-V-A-P-F-P-Q-V-F","PEPTIDE1{F.F.V.A.P.F.P.Q.V.F}$$$$V2.0","bitter",1
+235,"FFVAPFPQVFGK","PhePheValAlaProPheProGlnValPheGlyLys","F-F-V-A-P-F-P-Q-V-F-G-K","PEPTIDE1{F.F.V.A.P.F.P.Q.V.F.G.K}$$$$V2.0","bitter",1
+236,"FG","PheGly","F-G","PEPTIDE1{F.G}$$$$V2.0","bitter",1
+237,"FGF","PheGlyPhe","F-G-F","PEPTIDE1{F.G.F}$$$$V2.0","bitter",1
+238,"FGFG","PheGlyPheGly","F-G-F-G","PEPTIDE1{F.G.F.G}$$$$V2.0","bitter",1
+239,"FGG","PheGlyGly","F-G-G","PEPTIDE1{F.G.G}$$$$V2.0","bitter",1
+240,"FGGF","PheGlyGlyPhe","F-G-G-F","PEPTIDE1{F.G.G.F}$$$$V2.0","bitter",1
+242,"FI","PheIle","F-I","PEPTIDE1{F.I}$$$$V2.0","bitter",1
+243,"FILLEGV","PheIleLeuLeuGluGlyVal","F-I-L-L-E-G-V","PEPTIDE1{F.I.L.L.E.G.V}$$$$V2.0","bitter",1
+244,"FIV","PheIleVal","F-I-V","PEPTIDE1{F.I.V}$$$$V2.0","bitter",1
+246,"FL","PheLeu","F-L","PEPTIDE1{F.L}$$$$V2.0","bitter",1
+247,"FLL","PheLeuLeu","F-L-L","PEPTIDE1{F.L.L}$$$$V2.0","bitter",1
+248,"FLNQDEEAR","PheLeuAsnGlnAspGluGluAlaArg","F-L-N-Q-D-E-E-A-R","PEPTIDE1{F.L.N.Q.D.E.E.A.R}$$$$V2.0","bitter",1
+249,"FNKEE","PheAsnLysGluGlu","F-N-K-E-E","PEPTIDE1{F.N.K.E.E}$$$$V2.0","not bitter",1
+250,"FP","PhePro","F-P","PEPTIDE1{F.P}$$$$V2.0","bitter",1
+252,"FPF","PheProPhe","F-P-F","PEPTIDE1{F.P.F}$$$$V2.0","bitter",1
+253,"FPG","PheProGly","F-P-G","PEPTIDE1{F.P.G}$$$$V2.0","bitter",1
+254,"FPK","PheProLys","F-P-K","PEPTIDE1{F.P.K}$$$$V2.0","bitter",1
+255,"FPP","PheProPro","F-P-P","PEPTIDE1{F.P.P}$$$$V2.0","bitter",1
+256,"FPPFIV","PheProProPheIleVal","F-P-P-F-I-V","PEPTIDE1{F.P.P.F.I.V}$$$$V2.0","bitter",1
+257,"FPQYLQYLYQGPIVLNPWNQVK","PheProGlnTyrLeuGlnTyrLeuTyrGlnGlyProIleValLeuAsnProTrpAsnGlnValLys","F-P-Q-Y-L-Q-Y-L-Y-Q-G-P-I-V-L-N-P-W-N-Q-V-K","PEPTIDE1{F.P.Q.Y.L.Q.Y.L.Y.Q.G.P.I.V.L.N.P.W.N.Q.V.K}$$$$V2.0","bitter",1
+258,"FQ","PheGln","F-Q","PEPTIDE1{F.Q}$$$$V2.0","bitter",1
+259,"FQP","PheGlnPro","F-Q-P","PEPTIDE1{F.Q.P}$$$$V2.0","bitter",1
+260,"FR","PheArg","F-R","PEPTIDE1{F.R}$$$$V2.0","bitter",1
+262,"FT","PheThr","F-T","PEPTIDE1{F.T}$$$$V2.0","bitter",1
+263,"FTKK","PheThrLysLys","F-T-K-K","PEPTIDE1{F.T.K.K}$$$$V2.0","bitter",1
+264,"FV","PheVal","F-V","PEPTIDE1{F.V}$$$$V2.0","bitter",1
+265,"FVAPFPEVF","PheValAlaProPheProGluValPhe","F-V-A-P-F-P-E-V-F","PEPTIDE1{F.V.A.P.F.P.E.V.F}$$$$V2.0","bitter",1
+266,"FW","PheTrp",,,"not tested",1
+268,"FY","PheTyr","F-Y","PEPTIDE1{F.Y}$$$$V2.0","bitter",1
+269,"FYPE","PheTyrProGlu","F-Y-P-E","PEPTIDE1{F.Y.P.E}$$$$V2.0","bitter",1
+270,"FYPELF","PheTyrProGluLeuPhe","F-Y-P-E-L-F","PEPTIDE1{F.Y.P.E.L.F}$$$$V2.0","bitter",1
+271,"FYPELFR","PheTyrProGluLeuPheArg","F-Y-P-E-L-F-R","PEPTIDE1{F.Y.P.E.L.F.R}$$$$V2.0","bitter",1
+272,"G","Gly","G","PEPTIDE1{G}$$$$V2.0","not bitter",1
+273,"GA","GlyAla","G-A","PEPTIDE1{G.A}$$$$V2.0","not bitter",1
+274,"GAA","GlyAlaAla","G-A-A","PEPTIDE1{G.A.A}$$$$V2.0","not bitter",1
+275,"GAG","GlyAlaGly","G-A-G","PEPTIDE1{G.A.G}$$$$V2.0","not bitter",1
+276,"GAL","GlyAlaLeu","G-A-L","PEPTIDE1{G.A.L}$$$$V2.0","bitter",1
+277,"GD","GlyAsp","G-D","PEPTIDE1{G.D}$$$$V2.0","not bitter",1
+278,"GDSG","GlyAspSerGly","G-D-S-G","PEPTIDE1{G.D.S.G}$$$$V2.0","not bitter",1
+279,"GE","GlyGlu","G-E","PEPTIDE1{G.E}$$$$V2.0","bitter",1
+284,"GF","GlyPhe","G-F","PEPTIDE1{G.F}$$$$V2.0","bitter",1
+285,"GFF","GlyPhePhe","G-F-F","PEPTIDE1{G.F.F}$$$$V2.0","bitter",1
+286,"GFG","GlyPheGly","G-F-G","PEPTIDE1{G.F.G}$$$$V2.0","bitter",1
+287,"GFLGPQ","GlyPheLeuGlyProGln","G-F-L-G-P-Q","PEPTIDE1{G.F.L.G.P.Q}$$$$V2.0","not bitter",1
+288,"GFP","GlyPhePro","G-F-P","PEPTIDE1{G.F.P}$$$$V2.0","bitter",1
+289,"GG","GlyGly","G-G","PEPTIDE1{G.G}$$$$V2.0","not bitter",1
+290,"GGA","GlyGlyAla","G-G-A","PEPTIDE1{G.G.A}$$$$V2.0","not bitter",1
+291,"GGF","GlyGlyPhe","G-G-F","PEPTIDE1{G.G.F}$$$$V2.0","bitter",1
+292,"GGFF","GlyGlyPhePhe","G-G-F-F","PEPTIDE1{G.G.F.F}$$$$V2.0","bitter",1
+293,"GGFFGG","GlyGlyPhePheGlyGly","G-G-F-F-G-G","PEPTIDE1{G.G.F.F.G.G}$$$$V2.0","bitter",1
+294,"GGG","GlyGlyGly","G-G-G","PEPTIDE1{G.G.G}$$$$V2.0","not bitter",1
+295,"GGGG","GlyGlyGlyGly","G-G-G-G","PEPTIDE1{G.G.G.G}$$$$V2.0","not bitter",1
+296,"GGGGL","GlyGlyGlyGlyLeu","G-G-G-G-L","PEPTIDE1{G.G.G.G.L}$$$$V2.0","bitter",1
+297,"GGGL","GlyGlyGlyLeu","G-G-G-L","PEPTIDE1{G.G.G.L}$$$$V2.0","bitter",1
+298,"GGGLG","GlyGlyGlyLeuGly","G-G-G-L-G","PEPTIDE1{G.G.G.L.G}$$$$V2.0","bitter",1
+299,"GGITETW","GlyGlyIleThrGluThrTrp","G-G-I-T-E-T-W","PEPTIDE1{G.G.I.T.E.T.W}$$$$V2.0","not bitter",1
+300,"GGL","GlyGlyLeu","G-G-L","PEPTIDE1{G.G.L}$$$$V2.0","bitter",1
+301,"GGLG","GlyGlyLeuGly","G-G-L-G","PEPTIDE1{G.G.L.G}$$$$V2.0","bitter",1
+302,"GGLGG","GlyGlyLeuGlyGly","G-G-L-G-G","PEPTIDE1{G.G.L.G.G}$$$$V2.0","bitter",1
+303,"GGP","GlyGlyPro","G-G-P","PEPTIDE1{G.G.P}$$$$V2.0","bitter",1
+304,"GGPF","GlyGlyProPhe","G-G-P-F","PEPTIDE1{G.G.P.F}$$$$V2.0","not bitter",1
+305,"GGRGPPFIV","GlyGlyArgGlyProProPheIleVal","G-G-R-G-P-P-F-I-V","PEPTIDE1{G.G.R.G.P.P.F.I.V}$$$$V2.0","bitter",1
+306,"GGRGPPFIVGG","GlyGlyArgGlyProProPheIleValGlyGly","G-G-R-G-P-P-F-I-V-G-G","PEPTIDE1{G.G.R.G.P.P.F.I.V.G.G}$$$$V2.0","bitter",1
+307,"GGRP","GlyGlyArgPro","G-G-R-P","PEPTIDE1{G.G.R.P}$$$$V2.0","not bitter",1
+308,"GGRPFF","GlyGlyArgProPhePhe","G-G-R-P-F-F","PEPTIDE1{G.G.R.P.F.F}$$$$V2.0","bitter",1
+309,"GGRPFFGG","GlyGlyArgProPhePheGlyGly","G-G-R-P-F-F-G-G","PEPTIDE1{G.G.R.P.F.F.G.G}$$$$V2.0","bitter",1
+310,"GGV","GlyGlyVal","G-G-V","PEPTIDE1{G.G.V}$$$$V2.0","bitter",1
+311,"GGVVV","GlyGlyValValVal","G-G-V-V-V","PEPTIDE1{G.G.V.V.V}$$$$V2.0","bitter",1
+312,"GGY","GlyGlyTyr","G-G-Y","PEPTIDE1{G.G.Y}$$$$V2.0","bitter",1
+313,"GHGD","GlyHisGlyAsp","G-H-G-D","PEPTIDE1{G.H.G.D}$$$$V2.0","not bitter",1
+314,"GI","GlyIle","G-I","PEPTIDE1{G.I}$$$$V2.0","bitter",1
+315,"GII","GlyIleIle","G-I-I","PEPTIDE1{G.I.I}$$$$V2.0","bitter",1
+316,"GK","GlyLys","G-K","PEPTIDE1{G.K}$$$$V2.0","not bitter",1
+320,"GL","GlyLeu","G-L","PEPTIDE1{G.L}$$$$V2.0","bitter",1
+321,"GLG","GlyLeuGly","G-L-G","PEPTIDE1{G.L.G}$$$$V2.0","bitter",1
+322,"GLGG","GlyLeuGlyGly","G-L-G-G","PEPTIDE1{G.L.G.G}$$$$V2.0","bitter",1
+323,"GLGGG","GlyLeuGlyGlyGly","G-L-G-G-G","PEPTIDE1{G.L.G.G.G}$$$$V2.0","bitter",1
+325,"GLL","GlyLeuLeu","G-L-L","PEPTIDE1{G.L.L}$$$$V2.0","bitter",1
+326,"GLLPDGTPR","GlyLeuLeuProAspGlyThrProArg","G-L-L-P-D-G-T-P-R","PEPTIDE1{G.L.L.P.D.G.T.P.R}$$$$V2.0","not bitter",1
+327,"GLPD","GlyLeuProAsp","G-L-P-D","PEPTIDE1{G.L.P.D}$$$$V2.0","not bitter",1
+328,"GLY","GlyLeuTyr","G-L-Y","PEPTIDE1{G.L.Y}$$$$V2.0","bitter",1
+331,"GNPF","GlyAsnProPhe","G-N-P-F","PEPTIDE1{G.N.P.F}$$$$V2.0","not bitter",1
+335,"GP","GlyPro","G-P","PEPTIDE1{G.P}$$$$V2.0","bitter",1
+336,"GPAGPAGPR","GlyProAlaGlyProAlaGlyProArg","G-P-A-G-P-A-G-P-R","PEPTIDE1{G.P.A.G.P.A.G.P.R}$$$$V2.0","not bitter",1
+337,"GPFF","GlyProPhePhe","G-P-F-F","PEPTIDE1{G.P.F.F}$$$$V2.0","bitter",1
+338,"GPFPII","GlyProPheProIleIle","G-P-F-P-I-I","PEPTIDE1{G.P.F.P.I.I}$$$$V2.0","bitter",1
+339,"GPFPIIV","GlyProPheProIleIleVal","G-P-F-P-I-I-V","PEPTIDE1{G.P.F.P.I.I.V}$$$$V2.0","bitter",1
+340,"GPFPVI","GlyProPheProValIle","G-P-F-P-V-I","PEPTIDE1{G.P.F.P.V.I}$$$$V2.0","bitter",1
+341,"GPG","GlyProGly","G-P-G","PEPTIDE1{G.P.G}$$$$V2.0","bitter",1
+342,"GPPF","GlyProProPhe","G-P-P-F","PEPTIDE1{G.P.P.F}$$$$V2.0","bitter",1
+343,"GPPFIV","GlyProProPheIleVal","G-P-P-F-I-V","PEPTIDE1{G.P.P.F.I.V}$$$$V2.0","bitter",1
+344,"GPVRGPFP","GlyProValArgGlyProPhePro","G-P-V-R-G-P-F-P","PEPTIDE1{G.P.V.R.G.P.F.P}$$$$V2.0","bitter",1
+345,"GPVRGPFPIIV","GlyProValArgGlyProPheProIleIleVal","G-P-V-R-G-P-F-P-I-I-V","PEPTIDE1{G.P.V.R.G.P.F.P.I.I.V}$$$$V2.0","bitter",1
+346,"GR","GlyArg","G-R","PEPTIDE1{G.R}$$$$V2.0","bitter",1
+347,"GRP","GlyArgPro","G-R-P","PEPTIDE1{G.R.P}$$$$V2.0","bitter",1
+348,"GRVSNCAA","GlyArgValSerAsnCysAlaAla","G-R-V-S-N-C-A-A","PEPTIDE1{G.R.V.S.N.C.A.A}$$$$V2.0","not bitter",1
+349,"GS","GlySer","G-S","PEPTIDE1{G.S}$$$$V2.0","not bitter",1
+350,"GSAQA","GlySerAlaGlnAla","G-S-A-Q-A","PEPTIDE1{G.S.A.Q.A}$$$$V2.0","not bitter",1
+351,"GSQPAEGAK","GlySerGlnProAlaGluGlyAlaLys","G-S-Q-P-A-E-G-A-K","PEPTIDE1{G.S.Q.P.A.E.G.A.K}$$$$V2.0","not bitter",1
+352,"GT","GlyThr","G-T","PEPTIDE1{G.T}$$$$V2.0","not bitter",1
+353,"GV","GlyVal","G-V","PEPTIDE1{G.V}$$$$V2.0","bitter",1
+354,"GVG","GlyValGly","G-V-G","PEPTIDE1{G.V.G}$$$$V2.0","not bitter",1
+355,"GVSKVKEAMAPKHKEMPFPKYPVQPF","GlyValSerLysValLysGluAlaMetAlaProLysHisLysGluMetProPheProLysTyrProValGlnProPhe","G-V-S-K-V-K-E-A-M-A-P-K-H-K-E-M-P-F-P-K-Y-P-V-Q-P-F","PEPTIDE1{G.V.S.K.V.K.E.A.M.A.P.K.H.K.E.M.P.F.P.K.Y.P.V.Q.P.F}$$$$V2.0","not bitter",1
+356,"GVV","GlyValVal","G-V-V","PEPTIDE1{G.V.V}$$$$V2.0","bitter",1
+357,"GW","GlyTrp","G-W","PEPTIDE1{G.W}$$$$V2.0","bitter",1
+358,"GY","GlyTyr","G-Y","PEPTIDE1{G.Y}$$$$V2.0","bitter",1
+359,"GYG","GlyTyrGly","G-Y-G","PEPTIDE1{G.Y.G}$$$$V2.0","bitter",1
+360,"GYSFTTTAER","GlyTyrSerPheThrThrThrAlaGluArg","G-Y-S-F-T-T-T-A-E-R","PEPTIDE1{G.Y.S.F.T.T.T.A.E.R}$$$$V2.0","not bitter",1
+361,"GYY","GlyTyrTyr","G-Y-Y","PEPTIDE1{G.Y.Y}$$$$V2.0","bitter",1
+364,"H","His","H","PEPTIDE1{H}$$$$V2.0","bitter",1
+365,"HF","HisPhe","H-F","PEPTIDE1{H.F}$$$$V2.0","bitter",1
+366,"HFR","HisPheArg","H-F-R","PEPTIDE1{H.F.R}$$$$V2.0","bitter",1
+367,"HGEDKEGE","HisGlyGluAspLysGluGlyGlu","H-G-E-D-K-E-G-E","PEPTIDE1{H.G.E.D.K.E.G.E}$$$$V2.0","not bitter",1
+368,"HIQK","HisIleGlnLys","H-I-Q-K","PEPTIDE1{H.I.Q.K}$$$$V2.0","not bitter",1
+369,"HIQKEDVPSER","HisIleGlnLysGluAspValProSerGluArg","H-I-Q-K-E-D-V-P-S-E-R","PEPTIDE1{H.I.Q.K.E.D.V.P.S.E.R}$$$$V2.0","not bitter",1
+370,"HLPLPLLQ","HisLeuProLeuProLeuLeuGln","H-L-P-L-P-L-L-Q","PEPTIDE1{H.L.P.L.P.L.L.Q}$$$$V2.0","bitter",1
+371,"HLPLPLLQS","HisLeuProLeuProLeuLeuGlnSer","H-L-P-L-P-L-L-Q-S","PEPTIDE1{H.L.P.L.P.L.L.Q.S}$$$$V2.0","bitter",1
+372,"HLPPLLLQSW","HisLeuProProLeuLeuLeuGlnSerTrp","H-L-P-P-L-L-L-Q-S-W","PEPTIDE1{H.L.P.P.L.L.L.Q.S.W}$$$$V2.0","not bitter",1
+373,"HLQLAIR","HisLeuGlnLeuAlaIleArg","H-L-Q-L-A-I-R","PEPTIDE1{H.L.Q.L.A.I.R}$$$$V2.0","bitter",1
+374,"HNESQN","HisAsnGluSerGlnAsn","H-N-E-S-Q-N","PEPTIDE1{H.N.E.S.Q.N}$$$$V2.0","not bitter",1
+375,"HNIGQT","HisAsnIleGlyGlnThr","H-N-I-G-Q-T","PEPTIDE1{H.N.I.G.Q.T}$$$$V2.0","bitter",1
+376,"HNP","HisAsnPro","H-N-P","PEPTIDE1{H.N.P}$$$$V2.0","not bitter",1
+377,"HPI","HisProIle","H-P-I","PEPTIDE1{H.P.I}$$$$V2.0","bitter",1
+378,"HPIK","HisProIleLys","H-P-I-K","PEPTIDE1{H.P.I.K}$$$$V2.0","not bitter",1
+379,"HQGLPQEVLNENLLR","HisGlnGlyLeuProGlnGluValLeuAsnGluAsnLeuLeuArg","H-Q-G-L-P-Q-E-V-L-N-E-N-L-L-R","PEPTIDE1{H.Q.G.L.P.Q.E.V.L.N.E.N.L.L.R}$$$$V2.0","not bitter",1
+380,"HQPHQPLPPTVMFPPQSVL","HisGlnProHisGlnProLeuProProThrValMetPheProProGlnSerValLeu","H-Q-P-H-Q-P-L-P-P-T-V-M-F-P-P-Q-S-V-L","PEPTIDE1{H.Q.P.H.Q.P.L.P.P.T.V.M.F.P.P.Q.S.V.L}$$$$V2.0","not bitter",1
+381,"HR","HisArg","H-R","PEPTIDE1{H.R}$$$$V2.0","not bitter",1
+382,"I","Ile","I","PEPTIDE1{I}$$$$V2.0","bitter",1
+383,"IA","IleAla","I-A","PEPTIDE1{I.A}$$$$V2.0","bitter",1
+384,"IAKYIPI","IleAlaLysTyrIleProIle","I-A-K-Y-I-P-I","PEPTIDE1{I.A.K.Y.I.P.I}$$$$V2.0","bitter",1
+385,"IAMEK","IleAlaMetGluLys","I-A-M-E-K","PEPTIDE1{I.A.M.E.K}$$$$V2.0","bitter",1
+386,"ID","IleAsp","I-D","PEPTIDE1{I.D}$$$$V2.0","bitter",1
+387,"IE","IleGlu","I-E","PEPTIDE1{I.E}$$$$V2.0","bitter",1
+388,"IEE","IleGluGlu","I-E-E","PEPTIDE1{I.E.E}$$$$V2.0","bitter",1
+389,"IF","IlePhe","I-F","PEPTIDE1{I.F}$$$$V2.0","bitter",1
+393,"IG","IleGly","I-G","PEPTIDE1{I.G}$$$$V2.0","bitter",1
+394,"IGI","IleGlyIle","I-G-I","PEPTIDE1{I.G.I}$$$$V2.0","bitter",1
+395,"IGPGLGR","IleGlyProGlyLeuGlyArg","I-G-P-G-L-G-R","PEPTIDE1{I.G.P.G.L.G.R}$$$$V2.0","not bitter",1
+396,"IGVNQELAYFYPELFR","IleGlyValAsnGlnGluLeuAlaTyrPheTyrProGluLeuPheArg","I-G-V-N-Q-E-L-A-Y-F-Y-P-E-L-F-R","PEPTIDE1{I.G.V.N.Q.E.L.A.Y.F.Y.P.E.L.F.R}$$$$V2.0","not bitter",1
+397,"IHPFAQTQSLVYPFPGPIPN","IleHisProPheAlaGlnThrGlnSerLeuValTyrProPheProGlyProIleProAsn","I-H-P-F-A-Q-T-Q-S-L-V-Y-P-F-P-G-P-I-P-N","PEPTIDE1{I.H.P.F.A.Q.T.Q.S.L.V.Y.P.F.P.G.P.I.P.N}$$$$V2.0","bitter",1
+398,"IHPFAQTQSLVYPFPGPIPNSLPQNIPPLTQTPVVVPPFLQPEVMGVSK","IleHisProPheAlaGlnThrGlnSerLeuValTyrProPheProGlyProIleProAsnSerLeuProGlnAsnIleProProLeuThrGlnThrProValValValProProPheLeuGlnProGluValMetGlyValSerLys","I-H-P-F-A-Q-T-Q-S-L-V-Y-P-F-P-G-P-I-P-N-S-L-P-Q-N-I-P-P-L-T-Q-T-P-V-V-V-P-P-F-L-Q-P-E-V-M-G-V-S-K","PEPTIDE1{I.H.P.F.A.Q.T.Q.S.L.V.Y.P.F.P.G.P.I.P.N.S.L.P.Q.N.I.P.P.L.T.Q.T.P.V.V.V.P.P.F.L.Q.P.E.V.M.G.V.S.K}$$$$V2.0","bitter",1
+399,"II","IleIle","I-I","PEPTIDE1{I.I}$$$$V2.0","bitter",1
+402,"IIR","IleIleArg","I-I-R","PEPTIDE1{I.I.R}$$$$V2.0","bitter",1
+403,"IK","IleLys","I-K","PEPTIDE1{I.K}$$$$V2.0","bitter",1
+404,"IL","IleLeu","I-L","PEPTIDE1{I.L}$$$$V2.0","bitter",1
+407,"ILR","IleLeuArg","I-L-R","PEPTIDE1{I.L.R}$$$$V2.0","bitter",1
+408,"IN","IleAsn","I-N","PEPTIDE1{I.N}$$$$V2.0","bitter",1
+409,"INH","IleAsnHis","I-N-H","PEPTIDE1{I.N.H}$$$$V2.0","bitter",1
+410,"INK","IleAsnLys","I-N-K","PEPTIDE1{I.N.K}$$$$V2.0","not bitter",1
+411,"INTIASGEPT","IleAsnThrIleAlaSerGlyGluProThr","I-N-T-I-A-S-G-E-P-T","PEPTIDE1{I.N.T.I.A.S.G.E.P.T}$$$$V2.0","not bitter",1
+412,"IP","IlePro","I-P","PEPTIDE1{I.P}$$$$V2.0","bitter",1
+413,"IPAVF","IleProAlaValPhe","I-P-A-V-F","PEPTIDE1{I.P.A.V.F}$$$$V2.0","bitter",1
+414,"IPIPATKT","IleProIleProAlaThrLysThr","I-P-I-P-A-T-K-T","PEPTIDE1{I.P.I.P.A.T.K.T}$$$$V2.0","not bitter",1
+415,"IPPL","IleProProLeu","I-P-P-L","PEPTIDE1{I.P.P.L}$$$$V2.0","not bitter",1
+416,"IPPLTQTPVVVPP","IleProProLeuThrGlnThrProValValValProPro","I-P-P-L-T-Q-T-P-V-V-V-P-P","PEPTIDE1{I.P.P.L.T.Q.T.P.V.V.V.P.P}$$$$V2.0","not bitter",1
+417,"IQ","IleGln","I-Q","PEPTIDE1{I.Q}$$$$V2.0","bitter",1
+418,"IQKEDVPS","IleGlnLysGluAspValProSer","I-Q-K-E-D-V-P-S","PEPTIDE1{I.Q.K.E.D.V.P.S}$$$$V2.0","bitter",1
+420,"IQW","IleGlnTrp","I-Q-W","PEPTIDE1{I.Q.W}$$$$V2.0","bitter",1
+421,"IR","IleArg","I-R","PEPTIDE1{I.R}$$$$V2.0","not bitter",1
+422,"IS","IleSer","I-S","PEPTIDE1{I.S}$$$$V2.0","bitter",1
+423,"ISIEDVEESRNK","IleSerIleGluAspValGluGluSerArgAsnLys","I-S-I-E-D-V-E-E-S-R-N-K","PEPTIDE1{I.S.I.E.D.V.E.E.S.R.N.K}$$$$V2.0","bitter",1
+424,"ISKEK","IleSerLysGluLys","I-S-K-E-K","PEPTIDE1{I.S.K.E.K}$$$$V2.0","not bitter",1
+425,"IT","IleThr","I-T","PEPTIDE1{I.T}$$$$V2.0","bitter",1
+426,"IV","IleVal","I-V","PEPTIDE1{I.V}$$$$V2.0","bitter",1
+427,"IVPN","IleValProAsn","I-V-P-N","PEPTIDE1{I.V.P.N}$$$$V2.0","not bitter",1
+428,"IW","IleTrp","I-W","PEPTIDE1{I.W}$$$$V2.0","bitter",1
+429,"IYPGCP","IleTyrProGlyCysPro","I-Y-P-G-C-P","PEPTIDE1{I.Y.P.G.C.P}$$$$V2.0","bitter",1
+430,"IYPGCPST","IleTyrProGlyCysProSerThr","I-Y-P-G-C-P-S-T","PEPTIDE1{I.Y.P.G.C.P.S.T}$$$$V2.0","bitter",1
+431,"K","Lys","K","PEPTIDE1{K}$$$$V2.0","bitter",1
+432,"KA","LysAla","K-A","PEPTIDE1{K.A}$$$$V2.0","bitter",1
+433,"KAVPYPQ","LysAlaValProTyrProGln","K-A-V-P-Y-P-Q","PEPTIDE1{K.A.V.P.Y.P.Q}$$$$V2.0","bitter",1
+434,"KAVPYPQRDMPIQAF","LysAlaValProTyrProGlnArgAspMetProIleGlnAlaPhe","K-A-V-P-Y-P-Q-R-D-M-P-I-Q-A-F","PEPTIDE1{K.A.V.P.Y.P.Q.R.D.M.P.I.Q.A.F}$$$$V2.0","not bitter",1
+435,"KD","LysAsp","K-D","PEPTIDE1{K.D}$$$$V2.0","not bitter",1
+436,"KDEEEEVESGPDAPLPAE","LysAspGluGluGluGluValGluSerGlyProAspAlaProLeuProAlaGlu","K-D-E-E-E-E-V-E-S-G-P-D-A-P-L-P-A-E","PEPTIDE1{K.D.E.E.E.E.V.E.S.G.P.D.A.P.L.P.A.E}$$$$V2.0","not bitter",1
+437,"KDFPEAHSQAT","LysAspPheProGluAlaHisSerGlnAlaThr","K-D-F-P-E-A-H-S-Q-A-T","PEPTIDE1{K.D.F.P.E.A.H.S.Q.A.T}$$$$V2.0","not bitter",1
+438,"KDGGGGK","LysAspGlyGlyGlyGlyLys","K-D-G-G-G-G-K","PEPTIDE1{K.D.G.G.G.G.K}$$$$V2.0","not bitter",1
+439,"KDLFDPVIQD","LysAspLeuPheAspProValIleGlnAsp","K-D-L-F-D-P-V-I-Q-D","PEPTIDE1{K.D.L.F.D.P.V.I.Q.D}$$$$V2.0","not bitter",1
+440,"KDQP","LysAspGlnPro","K-D-Q-P","PEPTIDE1{K.D.Q.P}$$$$V2.0","not bitter",1
+441,"KE","LysGlu","K-E","PEPTIDE1{K.E}$$$$V2.0","not bitter",1
+442,"KEDVPSERY","LysGluAspValProSerGluArgTyr","K-E-D-V-P-S-E-R-Y","PEPTIDE1{K.E.D.V.P.S.E.R.Y}$$$$V2.0","bitter",1
+443,"KEMQKN","LysGluMetGlnLysAsn","K-E-M-Q-K-N","PEPTIDE1{K.E.M.Q.K.N}$$$$V2.0","not bitter",1
+444,"KF","LysPhe","K-F","PEPTIDE1{K.F}$$$$V2.0","bitter",1
+445,"KG","LysGly","K-G","PEPTIDE1{K.G}$$$$V2.0","not bitter",1
+447,"KGC","LysGlyCys","K-G-C","PEPTIDE1{K.G.C}$$$$V2.0","not bitter",1
+448,"KGD","LysGlyAsp","K-G-D","PEPTIDE1{K.G.D}$$$$V2.0","not bitter",1
+449,"KGDEE","LysGlyAspGluGlu","K-G-D-E-E","PEPTIDE1{K.G.D.E.E}$$$$V2.0","not bitter",1
+450,"KGDEESLA","LysGlyAspGluGluSerLeuAla","K-G-D-E-E-S-L-A","PEPTIDE1{K.G.D.E.E.S.L.A}$$$$V2.0","not bitter",1
+451,"KGGGGP","LysGlyGlyGlyGlyPro","K-G-G-G-G-P","PEPTIDE1{K.G.G.G.G.P}$$$$V2.0","not bitter",1
+452,"KGRYER","LysGlyArgTyrGluArg","K-G-R-Y-E-R","PEPTIDE1{K.G.R.Y.E.R}$$$$V2.0","not bitter",1
+453,"KK","LysLys","K-K","PEPTIDE1{K.K}$$$$V2.0","not bitter",1
+455,"KLHENIAR","LysLeuHisGluAsnIleAlaArg","K-L-H-E-N-I-A-R","PEPTIDE1{K.L.H.E.N.I.A.R}$$$$V2.0","bitter",1
+456,"KP","LysPro","K-P","PEPTIDE1{K.P}$$$$V2.0","bitter",1
+457,"KPF","LysProPhe","K-P-F","PEPTIDE1{K.P.F}$$$$V2.0","bitter",1
+458,"KPK","LysProLys","K-P-K","PEPTIDE1{K.P.K}$$$$V2.0","bitter",1
+459,"KPPFIV","LysProProPheIleVal","K-P-P-F-I-V","PEPTIDE1{K.P.P.F.I.V}$$$$V2.0","bitter",1
+460,"KPWIQPK","LysProTrpIleGlnProLys","K-P-W-I-Q-P-K","PEPTIDE1{K.P.W.I.Q.P.K}$$$$V2.0","bitter",1
+461,"KR","LysArg","K-R","PEPTIDE1{K.R}$$$$V2.0","not bitter",1
+462,"KSAEN","LysSerAlaGluAsn","K-S-A-E-N","PEPTIDE1{K.S.A.E.N}$$$$V2.0","not bitter",1
+464,"KVLPVPQKAVPYPQ","LysValLeuProValProGlnLysAlaValProTyrProGln","K-V-L-P-V-P-Q-K-A-V-P-Y-P-Q","PEPTIDE1{K.V.L.P.V.P.Q.K.A.V.P.Y.P.Q}$$$$V2.0","bitter",1
+466,"L","Leu","L","PEPTIDE1{L}$$$$V2.0","bitter",1
+469,"LA","LeuAla","L-A","PEPTIDE1{L.A}$$$$V2.0","bitter",1
+470,"LADW","LeuAlaAspTrp","L-A-D-W","PEPTIDE1{L.A.D.W}$$$$V2.0","bitter",1
+471,"LAL","LeuAlaLeu","L-A-L","PEPTIDE1{L.A.L}$$$$V2.0","bitter",1
+472,"LCR","LeuCysArg","L-C-R","PEPTIDE1{L.C.R}$$$$V2.0","bitter",1
+473,"LD","LeuAsp","L-D","PEPTIDE1{L.D}$$$$V2.0","bitter",1
+475,"LDYY","LeuAspTyrTyr","L-D-Y-Y","PEPTIDE1{L.D.Y.Y}$$$$V2.0","bitter",1
+476,"LE","LeuGlu","L-E","PEPTIDE1{L.E}$$$$V2.0","bitter",1
+478,"LEL","LeuGluLeu","L-E-L","PEPTIDE1{L.E.L}$$$$V2.0","bitter",1
+480,"LEQLL","LeuGluGlnLeuLeu","L-E-Q-L-L","PEPTIDE1{L.E.Q.L.L}$$$$V2.0","bitter",1
+481,"LF","LeuPhe","L-F","PEPTIDE1{L.F}$$$$V2.0","bitter",1
+482,"LG","LeuGly","L-G","PEPTIDE1{L.G}$$$$V2.0","bitter",1
+483,"LGDVLVR","LeuGlyAspValLeuValArg","L-G-D-V-L-V-R","PEPTIDE1{L.G.D.V.L.V.R}$$$$V2.0","not bitter",1
+484,"LGG","LeuGlyGly","L-G-G","PEPTIDE1{L.G.G}$$$$V2.0","bitter",1
+485,"LGGG","LeuGlyGlyGly","L-G-G-G","PEPTIDE1{L.G.G.G}$$$$V2.0","bitter",1
+486,"LGGGG","LeuGlyGlyGlyGly","L-G-G-G-G","PEPTIDE1{L.G.G.G.G}$$$$V2.0","bitter",1
+487,"LGL","LeuGlyLeu","L-G-L","PEPTIDE1{L.G.L}$$$$V2.0","bitter",1
+488,"LGYLEQLL","LeuGlyTyrLeuGluGlnLeuLeu","L-G-Y-L-E-Q-L-L","PEPTIDE1{L.G.Y.L.E.Q.L.L}$$$$V2.0","bitter",1
+489,"LHLPLP","LeuHisLeuProLeuPro","L-H-L-P-L-P","PEPTIDE1{L.H.L.P.L.P}$$$$V2.0","bitter",1
+490,"LHLPLPLL","LeuHisLeuProLeuProLeuLeu","L-H-L-P-L-P-L-L","PEPTIDE1{L.H.L.P.L.P.L.L}$$$$V2.0","bitter",1
+491,"LHLPLPLLQS","LeuHisLeuProLeuProLeuLeuGlnSer","L-H-L-P-L-P-L-L-Q-S","PEPTIDE1{L.H.L.P.L.P.L.L.Q.S}$$$$V2.0","bitter",1
+492,"LHSMK","LeuHisSerMetLys","L-H-S-M-K","PEPTIDE1{L.H.S.M.K}$$$$V2.0","not bitter",1
+493,"LI","LeuIle","L-I","PEPTIDE1{L.I}$$$$V2.0","bitter",1
+496,"LIR","LeuIleArg","L-I-R","PEPTIDE1{L.I.R}$$$$V2.0","bitter",1
+497,"LK","LeuLys","L-K","PEPTIDE1{L.K}$$$$V2.0","bitter",1
+499,"LKP","LeuLysPro","L-K-P","PEPTIDE1{L.K.P}$$$$V2.0","bitter",1
+500,"LL","LeuLeu","L-L","PEPTIDE1{L.L}$$$$V2.0","bitter",1
+501,"LLDAFFFDNK","LeuLeuAspAlaPhePhePheAspAsnLys","L-L-D-A-F-F-F-D-N-K","PEPTIDE1{L.L.D.A.F.F.F.D.N.K}$$$$V2.0","not bitter",1
+502,"LLF","LeuLeuPhe","L-L-F","PEPTIDE1{L.L.F}$$$$V2.0","bitter",1
+503,"LLG","LeuLeuGly","L-L-G","PEPTIDE1{L.L.G}$$$$V2.0","bitter",1
+507,"LLLL","LeuLeuLeuLeu","L-L-L-L","PEPTIDE1{L.L.L.L}$$$$V2.0","bitter",1
+508,"LLLLL","LeuLeuLeuLeuLeu","L-L-L-L-L","PEPTIDE1{L.L.L.L.L}$$$$V2.0","not bitter",1
+509,"LLLLLL","LeuLeuLeuLeuLeuLeu","L-L-L-L-L-L","PEPTIDE1{L.L.L.L.L.L}$$$$V2.0","not bitter",1
+510,"LLLPGELAK","LeuLeuLeuProGlyGluLeuAlaLys","L-L-L-P-G-E-L-A-K","PEPTIDE1{L.L.L.P.G.E.L.A.K}$$$$V2.0","not bitter",1
+511,"LLQ","LeuLeuGln","L-L-Q","PEPTIDE1{L.L.Q}$$$$V2.0","bitter",1
+512,"LLRLKK","LeuLeuArgLeuLysLys","L-L-R-L-K-K","PEPTIDE1{L.L.R.L.K.K}$$$$V2.0","bitter",1
+513,"LLYQQPVLGPVR","LeuLeuTyrGlnGlnProValLeuGlyProValArg","L-L-Y-Q-Q-P-V-L-G-P-V-R","PEPTIDE1{L.L.Y.Q.Q.P.V.L.G.P.V.R}$$$$V2.0","not bitter",1
+514,"LLYQQPVLGPVRGPFPIIV","LeuLeuTyrGlnGlnProValLeuGlyProValArgGlyProPheProIleIleVal","L-L-Y-Q-Q-P-V-L-G-P-V-R-G-P-F-P-I-I-V","PEPTIDE1{L.L.Y.Q.Q.P.V.L.G.P.V.R.G.P.F.P.I.I.V}$$$$V2.0","not bitter",1
+515,"LM","LeuMet","L-M","PEPTIDE1{L.M}$$$$V2.0","bitter",1
+518,"LP","LeuPro","L-P","PEPTIDE1{L.P}$$$$V2.0","bitter",1
+519,"LPEEV","LeuProGluGluVal","L-P-E-E-V","PEPTIDE1{L.P.E.E.V}$$$$V2.0","not bitter",1
+520,"LPFDQL","LeuProPheAspGlnLeu","L-P-F-D-Q-L","PEPTIDE1{L.P.F.D.Q.L}$$$$V2.0","bitter",1
+521,"LPFNQL","LeuProPheAsnGlnLeu","L-P-F-N-Q-L","PEPTIDE1{L.P.F.N.Q.L}$$$$V2.0","bitter",1
+522,"LPFSQL","LeuProPheSerGlnLeu","L-P-F-S-Q-L","PEPTIDE1{L.P.F.S.Q.L}$$$$V2.0","bitter",1
+525,"LPKERLYV","LeuProLysGluArgLeuTyrVal","L-P-K-E-R-L-Y-V","PEPTIDE1{L.P.K.E.R.L.Y.V}$$$$V2.0","not bitter",1
+526,"LPL","LeuProLeu","L-P-L","PEPTIDE1{L.P.L}$$$$V2.0","bitter",1
+527,"LPLPLLQSW","LeuProLeuProLeuLeuGlnSerTrp","L-P-L-P-L-L-Q-S-W","PEPTIDE1{L.P.L.P.L.L.Q.S.W}$$$$V2.0","bitter",1
+528,"LPPL","LeuProProLeu","L-P-P-L","PEPTIDE1{L.P.P.L}$$$$V2.0","not bitter",1
+529,"LPPP","LeuProProPro","L-P-P-P","PEPTIDE1{L.P.P.P}$$$$V2.0","not bitter",1
+530,"LPQE","LeuProGlnGlu","L-P-Q-E","PEPTIDE1{L.P.Q.E}$$$$V2.0","bitter",1
+531,"LPWIQPK","LeuProTrpIleGlnProLys","L-P-W-I-Q-P-K","PEPTIDE1{L.P.W.I.Q.P.K}$$$$V2.0","bitter",1
+532,"LQ","LeuGln","L-Q","PEPTIDE1{L.Q}$$$$V2.0","bitter",1
+533,"LQL","LeuGlnLeu","L-Q-L","PEPTIDE1{L.Q.L}$$$$V2.0","bitter",1
+534,"LRF","LeuArgPhe","L-R-F","PEPTIDE1{L.R.F}$$$$V2.0","bitter",1
+535,"LRL","LeuArgLeu","L-R-L","PEPTIDE1{L.R.L}$$$$V2.0","bitter",1
+536,"LT","LeuThr","L-T","PEPTIDE1{L.T}$$$$V2.0","bitter",1
+537,"LV","LeuVal","L-V","PEPTIDE1{L.V}$$$$V2.0","bitter",1
+538,"LVDKL","LeuValAspLysLeu","L-V-D-K-L","PEPTIDE1{L.V.D.K.L}$$$$V2.0","not bitter",1
+539,"LVL","LeuValLeu","L-V-L","PEPTIDE1{L.V.L}$$$$V2.0","bitter",1
+540,"LVYPFPGPIHN","LeuValTyrProPheProGlyProIleHisAsn","L-V-Y-P-F-P-G-P-I-H-N","PEPTIDE1{L.V.Y.P.F.P.G.P.I.H.N}$$$$V2.0","bitter",1
+543,"LW","LeuTrp","L-W","PEPTIDE1{L.W}$$$$V2.0","bitter",1
+547,"LY","LeuTyr","L-Y","PEPTIDE1{L.Y}$$$$V2.0","bitter",1
+548,"LYER","LeuTyrGluArg","L-Y-E-R","PEPTIDE1{L.Y.E.R}$$$$V2.0","not bitter",1
+549,"LYQQPVLGPVRGPFPIIV","LeuTyrGlnGlnProValLeuGlyProValArgGlyProPheProIleIleVal","L-Y-Q-Q-P-V-L-G-P-V-R-G-P-F-P-I-I-V","PEPTIDE1{L.Y.Q.Q.P.V.L.G.P.V.R.G.P.F.P.I.I.V}$$$$V2.0","not bitter",1
+550,"LYQTPIVLNPW","LeuTyrGlnThrProIleValLeuAsnProTrp","L-Y-Q-T-P-I-V-L-N-P-W","PEPTIDE1{L.Y.Q.T.P.I.V.L.N.P.W}$$$$V2.0","bitter",1
+553,"M","Met","M","PEPTIDE1{M}$$$$V2.0","not bitter",1
+554,"MA","MetAla","M-A","PEPTIDE1{M.A}$$$$V2.0","not bitter",1
+555,"MAASGDVGK","MetAlaAlaSerGlyAspValGlyLys","M-A-A-S-G-D-V-G-K","PEPTIDE1{M.A.A.S.G.D.V.G.K}$$$$V2.0","not bitter",1
+556,"MAPKHKEMPFPKYPVEPF","MetAlaProLysHisLysGluMetProPheProLysTyrProValGluProPhe","M-A-P-K-H-K-E-M-P-F-P-K-Y-P-V-E-P-F","PEPTIDE1{M.A.P.K.H.K.E.M.P.F.P.K.Y.P.V.E.P.F}$$$$V2.0","bitter",1
+557,"MEIDD","MetGluIleAspAsp","M-E-I-D-D","PEPTIDE1{M.E.I.D.D}$$$$V2.0","bitter",1
+558,"MEK","MetGluLys","M-E-K","PEPTIDE1{M.E.K}$$$$V2.0","not bitter",1
+559,"MEREQEESTMR","MetGluArgGluGlnGluGluSerThrMetArg","M-E-R-E-Q-E-E-S-T-M-R","PEPTIDE1{M.E.R.E.Q.E.E.S.T.M.R}$$$$V2.0","not bitter",1
+560,"MHQPHQPLPPTVMFPPQSVL","MetHisGlnProHisGlnProLeuProProThrValMetPheProProGlnSerValLeu","M-H-Q-P-H-Q-P-L-P-P-T-V-M-F-P-P-Q-S-V-L","PEPTIDE1{M.H.Q.P.H.Q.P.L.P.P.T.V.M.F.P.P.Q.S.V.L}$$$$V2.0","not bitter",1
+561,"MI","MetIle","M-I","PEPTIDE1{M.I}$$$$V2.0","bitter",1
+562,"ML","MetLeu","M-L","PEPTIDE1{M.L}$$$$V2.0","bitter",1
+563,"MPFPKYPVEPF","MetProPheProLysTyrProValGluProPhe","M-P-F-P-K-Y-P-V-E-P-F","PEPTIDE1{M.P.F.P.K.Y.P.V.E.P.F}$$$$V2.0","bitter",1
+564,"MR","MetArg","M-R","PEPTIDE1{M.R}$$$$V2.0","not bitter",1
+565,"MTTFTW","MetThrThrPheThrTrp","M-T-T-F-T-W","PEPTIDE1{M.T.T.F.T.W}$$$$V2.0","not bitter",1
+566,"N","Asn","N","PEPTIDE1{N}$$$$V2.0","not bitter",1
+567,"NALKPD","AsnAlaLeuLysProAsp","N-A-L-K-P-D","PEPTIDE1{N.A.L.K.P.D}$$$$V2.0","bitter",1
+568,"NALKSVECYDAR","AsnAlaLeuLysSerValGluCysTyrAspAlaArg","N-A-L-K-S-V-E-C-Y-D-A-R","PEPTIDE1{N.A.L.K.S.V.E.C.Y.D.A.R}$$$$V2.0","not bitter",1
+569,"NALPD","AsnAlaLeuProAsp","N-A-L-P-D","PEPTIDE1{N.A.L.P.D}$$$$V2.0","not bitter",1
+570,"NALPE","AsnAlaLeuProGlu","N-A-L-P-E","PEPTIDE1{N.A.L.P.E}$$$$V2.0","bitter",1
+571,"NALPL","AsnAlaLeuProLeu","N-A-L-P-L","PEPTIDE1{N.A.L.P.L}$$$$V2.0","bitter",1
+572,"NALPP","AsnAlaLeuProPro","N-A-L-P-P","PEPTIDE1{N.A.L.P.P}$$$$V2.0","not bitter",1
+573,"NALPR","AsnAlaLeuProArg","N-A-L-P-R","PEPTIDE1{N.A.L.P.R}$$$$V2.0","bitter",1
+574,"NALPS","AsnAlaLeuProSer","N-A-L-P-S","PEPTIDE1{N.A.L.P.S}$$$$V2.0","bitter",1
+575,"NALPW","AsnAlaLeuProTrp","N-A-L-P-W","PEPTIDE1{N.A.L.P.W}$$$$V2.0","bitter",1
+576,"NAMFV","AsnAlaMetPheVal","N-A-M-F-V","PEPTIDE1{N.A.M.F.V}$$$$V2.0","bitter",1
+577,"NAMFVPH","AsnAlaMetPheValProHis","N-A-M-F-V-P-H","PEPTIDE1{N.A.M.F.V.P.H}$$$$V2.0","bitter",1
+578,"NARIEELEEE","AsnAlaArgIleGluGluLeuGluGluGlu","N-A-R-I-E-E-L-E-E-E","PEPTIDE1{N.A.R.I.E.E.L.E.E.E}$$$$V2.0","not bitter",1
+579,"NENLL","AsnGluAsnLeuLeu","N-E-N-L-L","PEPTIDE1{N.E.N.L.L}$$$$V2.0","bitter",1
+580,"NEY","AsnGluTyr","N-E-Y","PEPTIDE1{N.E.Y}$$$$V2.0","not bitter",1
+581,"NGGLQ","AsnGlyGlyLeuGln","N-G-G-L-Q","PEPTIDE1{N.G.G.L.Q}$$$$V2.0","not bitter",1
+582,"NH","AsnHis","N-H","PEPTIDE1{N.H}$$$$V2.0","bitter",1
+583,"NIPPLTQTPVVVPPFLQPEVM","AsnIleProProLeuThrGlnThrProValValValProProPheLeuGlnProGluValMet","N-I-P-P-L-T-Q-T-P-V-V-V-P-P-F-L-Q-P-E-V-M","PEPTIDE1{N.I.P.P.L.T.Q.T.P.V.V.V.P.P.F.L.Q.P.E.V.M}$$$$V2.0","not bitter",1
+588,"NLHLPLPLLQS","AsnLeuHisLeuProLeuProLeuLeuGlnSer","N-L-H-L-P-L-P-L-L-Q-S","PEPTIDE1{N.L.H.L.P.L.P.L.L.Q.S}$$$$V2.0","bitter",1
+595,"NLLRFF","AsnLeuLeuArgPhePhe","N-L-L-R-F-F","PEPTIDE1{N.L.L.R.F.F}$$$$V2.0","bitter",1
+596,"NNAL","AsnAsnAlaLeu","N-N-A-L","PEPTIDE1{N.N.A.L}$$$$V2.0","not bitter",1
+597,"NNP","AsnAsnPro","N-N-P","PEPTIDE1{N.N.P}$$$$V2.0","not bitter",1
+598,"NSLEGEFKG","AsnSerLeuGluGlyGluPheLysGly","N-S-L-E-G-E-F-K-G","PEPTIDE1{N.S.L.E.G.E.F.K.G}$$$$V2.0","not bitter",1
+613,"NYYQQKPVA","AsnTyrTyrGlnGlnLysProValAla","N-Y-Y-Q-Q-K-P-V-A","PEPTIDE1{N.Y.Y.Q.Q.K.P.V.A}$$$$V2.0","not bitter",1
+622,"P","Pro","P","PEPTIDE1{P}$$$$V2.0","bitter",1
+623,"PA","ProAla","P-A","PEPTIDE1{P.A}$$$$V2.0","bitter",1
+624,"PC","ProCys","P-C","PEPTIDE1{P.C}$$$$V2.0","not bitter",1
+625,"PE","ProGlu","P-E","PEPTIDE1{P.E}$$$$V2.0","not bitter",1
+627,"PF","ProPhe","P-F","PEPTIDE1{P.F}$$$$V2.0","bitter",1
+628,"PFIV","ProPheIleVal","P-F-I-V","PEPTIDE1{P.F.I.V}$$$$V2.0","bitter",1
+629,"PFP","ProPhePro","P-F-P","PEPTIDE1{P.F.P}$$$$V2.0","bitter",1
+630,"PFPGPI","ProPheProGlyProIle","P-F-P-G-P-I","PEPTIDE1{P.F.P.G.P.I}$$$$V2.0","bitter",1
+631,"PFPGPIP","ProPheProGlyProIlePro","P-F-P-G-P-I-P","PEPTIDE1{P.F.P.G.P.I.P}$$$$V2.0","bitter",1
+632,"PFPGPIPNS","ProPheProGlyProIleProAsnSer","P-F-P-G-P-I-P-N-S","PEPTIDE1{P.F.P.G.P.I.P.N.S}$$$$V2.0","bitter",1
+633,"PFPIIV","ProPheProIleIleVal","P-F-P-I-I-V","PEPTIDE1{P.F.P.I.I.V}$$$$V2.0","bitter",1
+634,"PFPP","ProPheProPro","P-F-P-P","PEPTIDE1{P.F.P.P}$$$$V2.0","bitter",1
+635,"PG","ProGly","P-G","PEPTIDE1{P.G}$$$$V2.0","not bitter",1
+636,"PGG","ProGlyGly","P-G-G","PEPTIDE1{P.G.G}$$$$V2.0","bitter",1
+637,"PGGE","ProGlyGlyGlu","P-G-G-E","PEPTIDE1{P.G.G.E}$$$$V2.0","not bitter",1
+638,"PGI","ProGlyIle","P-G-I","PEPTIDE1{P.G.I}$$$$V2.0","bitter",1
+639,"PGP","ProGlyPro","P-G-P","PEPTIDE1{P.G.P}$$$$V2.0","bitter",1
+640,"PGPAGPAGP","ProGlyProAlaGlyProAlaGlyPro","P-G-P-A-G-P-A-G-P","PEPTIDE1{P.G.P.A.G.P.A.G.P}$$$$V2.0","not bitter",1
+641,"PGPG","ProGlyProGly","P-G-P-G","PEPTIDE1{P.G.P.G}$$$$V2.0","not bitter",1
+642,"PGPGPG","ProGlyProGlyProGly","P-G-P-G-P-G","PEPTIDE1{P.G.P.G.P.G}$$$$V2.0","bitter",1
+643,"PGPIP","ProGlyProIlePro","P-G-P-I-P","PEPTIDE1{P.G.P.I.P}$$$$V2.0","bitter",1
+644,"PGR","ProGlyArg","P-G-R","PEPTIDE1{P.G.R}$$$$V2.0","bitter",1
+645,"PI","ProIle","P-I","PEPTIDE1{P.I}$$$$V2.0","bitter",1
+646,"PIP","ProIlePro","P-I-P","PEPTIDE1{P.I.P}$$$$V2.0","bitter",1
+647,"PK","ProLys","P-K","PEPTIDE1{P.K}$$$$V2.0","bitter",1
+648,"PKQS","ProLysGlnSer","P-K-Q-S","PEPTIDE1{P.K.Q.S}$$$$V2.0","not bitter",1
+649,"PL","ProLeu","P-L","PEPTIDE1{P.L}$$$$V2.0","bitter",1
+650,"PLL","ProLeuLeu","P-L-L","PEPTIDE1{P.L.L}$$$$V2.0","bitter",1
+652,"PP","ProPro","P-P","PEPTIDE1{P.P}$$$$V2.0","bitter",1
+653,"PPF","ProProPhe","P-P-F","PEPTIDE1{P.P.F}$$$$V2.0","bitter",1
+654,"PPFIV","ProProPheIleVal","P-P-F-I-V","PEPTIDE1{P.P.F.I.V}$$$$V2.0","bitter",1
+655,"PPG","ProProGly","P-P-G","PEPTIDE1{P.P.G}$$$$V2.0","bitter",1
+656,"PPP","ProProPro","P-P-P","PEPTIDE1{P.P.P}$$$$V2.0","bitter",1
+657,"PPPP","ProProProPro","P-P-P-P","PEPTIDE1{P.P.P.P}$$$$V2.0","not bitter",1
+658,"PPPPP","ProProProProPro","P-P-P-P-P","PEPTIDE1{P.P.P.P.P}$$$$V2.0","bitter",1
+660,"PQVF","ProGlnValPhe","P-Q-V-F","PEPTIDE1{P.Q.V.F}$$$$V2.0","bitter",1
+661,"PR","ProArg","P-R","PEPTIDE1{P.R}$$$$V2.0","bitter",1
+663,"PS","ProSer","P-S","PEPTIDE1{P.S}$$$$V2.0","not bitter",1
+664,"PV","ProVal","P-V","PEPTIDE1{P.V}$$$$V2.0","not bitter",1
+665,"PVL","ProValLeu","P-V-L","PEPTIDE1{P.V.L}$$$$V2.0","not bitter",1
+666,"PVLGPV","ProValLeuGlyProVal","P-V-L-G-P-V","PEPTIDE1{P.V.L.G.P.V}$$$$V2.0","bitter",1
+667,"PVLGPVRGPFPIIV","ProValLeuGlyProValArgGlyProPheProIleIleVal","P-V-L-G-P-V-R-G-P-F-P-I-I-V","PEPTIDE1{P.V.L.G.P.V.R.G.P.F.P.I.I.V}$$$$V2.0","bitter",1
+668,"PVNDR","ProValAsnAspArg","P-V-N-D-R","PEPTIDE1{P.V.N.D.R}$$$$V2.0","not bitter",1
+670,"PVRGPFPIIV","ProValArgGlyProPheProIleIleVal","P-V-R-G-P-F-P-I-I-V","PEPTIDE1{P.V.R.G.P.F.P.I.I.V}$$$$V2.0","bitter",1
+671,"PVVVPPFLQPEVM","ProValValValProProPheLeuGlnProGluValMet","P-V-V-V-P-P-F-L-Q-P-E-V-M","PEPTIDE1{P.V.V.V.P.P.F.L.Q.P.E.V.M}$$$$V2.0","bitter",1
+672,"PY","ProTyr","P-Y","PEPTIDE1{P.Y}$$$$V2.0","bitter",1
+687,"Q","Gln","Q","PEPTIDE1{Q}$$$$V2.0","not bitter",1
+688,"QDKIHPFAQTQSLVYPFGPIP","GlnAspLysIleHisProPheAlaGlnThrGlnSerLeuValTyrProPheGlyProIlePro","Q-D-K-I-H-P-F-A-Q-T-Q-S-L-V-Y-P-F-G-P-I-P","PEPTIDE1{Q.D.K.I.H.P.F.A.Q.T.Q.S.L.V.Y.P.F.G.P.I.P}$$$$V2.0","bitter",1
+689,"QDKIHPFAQTQSLVYPFGPIPNSLPQNIPPLTQTPVVV","GlnAspLysIleHisProPheAlaGlnThrGlnSerLeuValTyrProPheGlyProIleProAsnSerLeuProGlnAsnIleProProLeuThrGlnThrProValValVal","Q-D-K-I-H-P-F-A-Q-T-Q-S-L-V-Y-P-F-G-P-I-P-N-S-L-P-Q-N-I-P-P-L-T-Q-T-P-V-V-V","PEPTIDE1{Q.D.K.I.H.P.F.A.Q.T.Q.S.L.V.Y.P.F.G.P.I.P.N.S.L.P.Q.N.I.P.P.L.T.Q.T.P.V.V.V}$$$$V2.0","bitter",1
+690,"QDKIHPFAQTQSLVYPFPGP","GlnAspLysIleHisProPheAlaGlnThrGlnSerLeuValTyrProPheProGlyPro","Q-D-K-I-H-P-F-A-Q-T-Q-S-L-V-Y-P-F-P-G-P","PEPTIDE1{Q.D.K.I.H.P.F.A.Q.T.Q.S.L.V.Y.P.F.P.G.P}$$$$V2.0","bitter",1
+691,"QDKIHPFAQTQSLVYPFPGPIP","GlnAspLysIleHisProPheAlaGlnThrGlnSerLeuValTyrProPheProGlyProIlePro","Q-D-K-I-H-P-F-A-Q-T-Q-S-L-V-Y-P-F-P-G-P-I-P","PEPTIDE1{Q.D.K.I.H.P.F.A.Q.T.Q.S.L.V.Y.P.F.P.G.P.I.P}$$$$V2.0","bitter",1
+692,"QDKIHPFAQTQSLVYPFPGPIPNSLPQNIPPLTQTPVVV","GlnAspLysIleHisProPheAlaGlnThrGlnSerLeuValTyrProPheProGlyProIleProAsnSerLeuProGlnAsnIleProProLeuThrGlnThrProValValVal","Q-D-K-I-H-P-F-A-Q-T-Q-S-L-V-Y-P-F-P-G-P-I-P-N-S-L-P-Q-N-I-P-P-L-T-Q-T-P-V-V-V","PEPTIDE1{Q.D.K.I.H.P.F.A.Q.T.Q.S.L.V.Y.P.F.P.G.P.I.P.N.S.L.P.Q.N.I.P.P.L.T.Q.T.P.V.V.V}$$$$V2.0","bitter",1
+693,"QEPVLGPVRGPFPII","GlnGluProValLeuGlyProValArgGlyProPheProIleIle","Q-E-P-V-L-G-P-V-R-G-P-F-P-I-I","PEPTIDE1{Q.E.P.V.L.G.P.V.R.G.P.F.P.I.I}$$$$V2.0","bitter",1
+694,"QFYQLDAYPSGAWYYVPLGTQYTDAPSFSDIPNPIGSENSEK","GlnPheTyrGlnLeuAspAlaTyrProSerGlyAlaTrpTyrTyrValProLeuGlyThrGlnTyrThrAspAlaProSerPheSerAspIleProAsnProIleGlySerGluAsnSerGluLys","Q-F-Y-Q-L-D-A-Y-P-S-G-A-W-Y-Y-V-P-L-G-T-Q-Y-T-D-A-P-S-F-S-D-I-P-N-P-I-G-S-E-N-S-E-K","PEPTIDE1{Q.F.Y.Q.L.D.A.Y.P.S.G.A.W.Y.Y.V.P.L.G.T.Q.Y.T.D.A.P.S.F.S.D.I.P.N.P.I.G.S.E.N.S.E.K}$$$$V2.0","not bitter",1
+695,"QGIHAQQK","GlnGlyIleHisAlaGlnGlnLys","Q-G-I-H-A-Q-Q-K","PEPTIDE1{Q.G.I.H.A.Q.Q.K}$$$$V2.0","not bitter",1
+696,"QIEELEGK","GlnIleGluGluLeuGluGlyLys","Q-I-E-E-L-E-G-K","PEPTIDE1{Q.I.E.E.L.E.G.K}$$$$V2.0","not bitter",1
+697,"QIQP","GlnIleGlnPro","Q-I-Q-P","PEPTIDE1{Q.I.Q.P}$$$$V2.0","bitter",1
+698,"QLDAYPSGA","GlnLeuAspAlaTyrProSerGlyAla","Q-L-D-A-Y-P-S-G-A","PEPTIDE1{Q.L.D.A.Y.P.S.G.A}$$$$V2.0","not bitter",1
+699,"QLDAYPSGAWY","GlnLeuAspAlaTyrProSerGlyAlaTrpTyr","Q-L-D-A-Y-P-S-G-A-W-Y","PEPTIDE1{Q.L.D.A.Y.P.S.G.A.W.Y}$$$$V2.0","not bitter",1
+701,"QLFGPNVNPWHNP","GlnLeuPheGlyProAsnValAsnProTrpHisAsnPro","Q-L-F-G-P-N-V-N-P-W-H-N-P","PEPTIDE1{Q.L.F.G.P.N.V.N.P.W.H.N.P}$$$$V2.0","bitter",1
+702,"QLFNPS","GlnLeuPheAsnProSer","Q-L-F-N-P-S","PEPTIDE1{Q.L.F.N.P.S}$$$$V2.0","bitter",1
+703,"QLFNPSTNP","GlnLeuPheAsnProSerThrAsnPro","Q-L-F-N-P-S-T-N-P","PEPTIDE1{Q.L.F.N.P.S.T.N.P}$$$$V2.0","not bitter",1
+704,"QLFNPSTNPW","GlnLeuPheAsnProSerThrAsnProTrp","Q-L-F-N-P-S-T-N-P-W","PEPTIDE1{Q.L.F.N.P.S.T.N.P.W}$$$$V2.0","bitter",1
+706,"QLFNPSTNPWH","GlnLeuPheAsnProSerThrAsnProTrpHis","Q-L-F-N-P-S-T-N-P-W-H","PEPTIDE1{Q.L.F.N.P.S.T.N.P.W.H}$$$$V2.0","not bitter",1
+707,"QLFNPSTNPWHSP","GlnLeuPheAsnProSerThrAsnProTrpHisSerPro","Q-L-F-N-P-S-T-N-P-W-H-S-P","PEPTIDE1{Q.L.F.N.P.S.T.N.P.W.H.S.P}$$$$V2.0","bitter",1
+708,"QLQP","GlnLeuGlnPro","Q-L-Q-P","PEPTIDE1{Q.L.Q.P}$$$$V2.0","bitter",1
+709,"QNDKIHPFAQTQSLVYPFGPIP","GlnAsnAspLysIleHisProPheAlaGlnThrGlnSerLeuValTyrProPheGlyProIlePro","Q-N-D-K-I-H-P-F-A-Q-T-Q-S-L-V-Y-P-F-G-P-I-P","PEPTIDE1{Q.N.D.K.I.H.P.F.A.Q.T.Q.S.L.V.Y.P.F.G.P.I.P}$$$$V2.0","bitter",1
+711,"QPVLGPVRGPFPIIV","GlnProValLeuGlyProValArgGlyProPheProIleIleVal","Q-P-V-L-G-P-V-R-G-P-F-P-I-I-V","PEPTIDE1{Q.P.V.L.G.P.V.R.G.P.F.P.I.I.V}$$$$V2.0","bitter",1
+714,"QQPVLGPVRGPFPI","GlnGlnProValLeuGlyProValArgGlyProPheProIle","Q-Q-P-V-L-G-P-V-R-G-P-F-P-I","PEPTIDE1{Q.Q.P.V.L.G.P.V.R.G.P.F.P.I}$$$$V2.0","bitter",1
+715,"QR","GlnArg","Q-R","PEPTIDE1{Q.R}$$$$V2.0","not bitter",1
+716,"QSKVLPVPQ","GlnSerLysValLeuProValProGln","Q-S-K-V-L-P-V-P-Q","PEPTIDE1{Q.S.K.V.L.P.V.P.Q}$$$$V2.0","bitter",1
+718,"QVAIAHRDAK","GlnValAlaIleAlaHisArgAspAlaLys","Q-V-A-I-A-H-R-D-A-K","PEPTIDE1{Q.V.A.I.A.H.R.D.A.K}$$$$V2.0","not bitter",1
+719,"QY","GlnTyr","Q-Y","PEPTIDE1{Q.Y}$$$$V2.0","not bitter",1
+720,"R","Arg","R","PEPTIDE1{R}$$$$V2.0","bitter",1
+721,"RA","ArgAla","R-A","PEPTIDE1{R.A}$$$$V2.0","not bitter",1
+722,"RD","ArgAsp","R-D","PEPTIDE1{R.D}$$$$V2.0","not bitter",1
+723,"RDMPIQAFLLY","ArgAspMetProIleGlnAlaPheLeuLeuTyr","R-D-M-P-I-Q-A-F-L-L-Y","PEPTIDE1{R.D.M.P.I.Q.A.F.L.L.Y}$$$$V2.0","bitter",1
+724,"RE","ArgGlu","R-E","PEPTIDE1{R.E}$$$$V2.0","not bitter",1
+725,"RF","ArgPhe","R-F","PEPTIDE1{R.F}$$$$V2.0","bitter",1
+726,"RFPHADF","ArgPheProHisAlaAspPhe","R-F-P-H-A-D-F","PEPTIDE1{R.F.P.H.A.D.F}$$$$V2.0","bitter",1
+727,"RG","ArgGly","R-G","PEPTIDE1{R.G}$$$$V2.0","bitter",1
+728,"RGENESDEQGAIVT","ArgGlyGluAsnGluSerAspGluGlnGlyAlaIleValThr","R-G-E-N-E-S-D-E-Q-G-A-I-V-T","PEPTIDE1{R.G.E.N.E.S.D.E.Q.G.A.I.V.T}$$$$V2.0","not bitter",1
+729,"RGENESEEEGAIVT","ArgGlyGluAsnGluSerGluGluGluGlyAlaIleValThr","R-G-E-N-E-S-E-E-E-G-A-I-V-T","PEPTIDE1{R.G.E.N.E.S.E.E.E.G.A.I.V.T}$$$$V2.0","not bitter",1
+730,"RGEPNND","ArgGlyGluProAsnAsnAsp","R-G-E-P-N-N-D","PEPTIDE1{R.G.E.P.N.N.D}$$$$V2.0","not bitter",1
+731,"RGFF","ArgGlyPhePhe","R-G-F-F","PEPTIDE1{R.G.F.F}$$$$V2.0","bitter",1
+732,"RGGFIV","ArgGlyGlyPheIleVal","R-G-G-F-I-V","PEPTIDE1{R.G.G.F.I.V}$$$$V2.0","bitter",1
+733,"RGP","ArgGlyPro","R-G-P","PEPTIDE1{R.G.P}$$$$V2.0","bitter",1
+734,"RGPEPIIV","ArgGlyProGluProIleIleVal","R-G-P-E-P-I-I-V","PEPTIDE1{R.G.P.E.P.I.I.V}$$$$V2.0","bitter",1
+735,"RGPFIV","ArgGlyProPheIleVal","R-G-P-F-I-V","PEPTIDE1{R.G.P.F.I.V}$$$$V2.0","bitter",1
+736,"RGPFPI","ArgGlyProPheProIle","R-G-P-F-P-I","PEPTIDE1{R.G.P.F.P.I}$$$$V2.0","bitter",1
+737,"RGPFPIIV","ArgGlyProPheProIleIleVal","R-G-P-F-P-I-I-V","PEPTIDE1{R.G.P.F.P.I.I.V}$$$$V2.0","bitter",1
+738,"RGPFPIV","ArgGlyProPheProIleVal","R-G-P-F-P-I-V","PEPTIDE1{R.G.P.F.P.I.V}$$$$V2.0","bitter",1
+739,"RGPGPIIV","ArgGlyProGlyProIleIleVal","R-G-P-G-P-I-I-V","PEPTIDE1{R.G.P.G.P.I.I.V}$$$$V2.0","bitter",1
+740,"RGPKPIIV","ArgGlyProLysProIleIleVal","R-G-P-K-P-I-I-V","PEPTIDE1{R.G.P.K.P.I.I.V}$$$$V2.0","bitter",1
+741,"RGPPF","ArgGlyProProPhe","R-G-P-P-F","PEPTIDE1{R.G.P.P.F}$$$$V2.0","bitter",1
+742,"RGPPFF","ArgGlyProProPhePhe","R-G-P-P-F-F","PEPTIDE1{R.G.P.P.F.F}$$$$V2.0","bitter",1
+743,"RGPPFFF","ArgGlyProProPhePhePhe","R-G-P-P-F-F-F","PEPTIDE1{R.G.P.P.F.F.F}$$$$V2.0","bitter",1
+744,"RGPPFFIV","ArgGlyProProPhePheIleVal","R-G-P-P-F-F-I-V","PEPTIDE1{R.G.P.P.F.F.I.V}$$$$V2.0","bitter",1
+745,"RGPPFGG","ArgGlyProProPheGlyGly","R-G-P-P-F-G-G","PEPTIDE1{R.G.P.P.F.G.G}$$$$V2.0","bitter",1
+746,"RGPPFI","ArgGlyProProPheIle","R-G-P-P-F-I","PEPTIDE1{R.G.P.P.F.I}$$$$V2.0","bitter",1
+747,"RGPPFIIV","ArgGlyProProPheIleIleVal","R-G-P-P-F-I-I-V","PEPTIDE1{R.G.P.P.F.I.I.V}$$$$V2.0","bitter",1
+748,"RGPPFIV","ArgGlyProProPheIleVal","R-G-P-P-F-I-V","PEPTIDE1{R.G.P.P.F.I.V}$$$$V2.0","bitter",1
+749,"RGPPFIVGG","ArgGlyProProPheIleValGlyGly","R-G-P-P-F-I-V-G-G","PEPTIDE1{R.G.P.P.F.I.V.G.G}$$$$V2.0","bitter",1
+750,"RGPPFIVRGPPFIV","ArgGlyProProPheIleValArgGlyProProPheIleVal","R-G-P-P-F-I-V-R-G-P-P-F-I-V","PEPTIDE1{R.G.P.P.F.I.V.R.G.P.P.F.I.V}$$$$V2.0","bitter",1
+751,"RGPPGF","ArgGlyProProGlyPhe","R-G-P-P-G-F","PEPTIDE1{R.G.P.P.G.F}$$$$V2.0","bitter",1
+752,"RGPPGFF","ArgGlyProProGlyPhePhe","R-G-P-P-G-F-F","PEPTIDE1{R.G.P.P.G.F.F}$$$$V2.0","bitter",1
+753,"RGPPGFG","ArgGlyProProGlyPheGly","R-G-P-P-G-F-G","PEPTIDE1{R.G.P.P.G.F.G}$$$$V2.0","bitter",1
+754,"RGPPGGF","ArgGlyProProGlyGlyPhe","R-G-P-P-G-G-F","PEPTIDE1{R.G.P.P.G.G.F}$$$$V2.0","bitter",1
+755,"RGPPGGFF","ArgGlyProProGlyGlyPhePhe","R-G-P-P-G-G-F-F","PEPTIDE1{R.G.P.P.G.G.F.F}$$$$V2.0","bitter",1
+756,"RGPPGGGFF","ArgGlyProProGlyGlyGlyPhePhe","R-G-P-P-G-G-G-F-F","PEPTIDE1{R.G.P.P.G.G.G.F.F}$$$$V2.0","bitter",1
+757,"RGPPGGV","ArgGlyProProGlyGlyVal","R-G-P-P-G-G-V","PEPTIDE1{R.G.P.P.G.G.V}$$$$V2.0","bitter",1
+758,"RGPPGIG","ArgGlyProProGlyIleGly","R-G-P-P-G-I-G","PEPTIDE1{R.G.P.P.G.I.G}$$$$V2.0","bitter",1
+759,"RH","ArgHis","R-H","PEPTIDE1{R.H}$$$$V2.0","not bitter",1
+760,"RI","ArgIle","R-I","PEPTIDE1{R.I}$$$$V2.0","not bitter",1
+761,"RK","ArgLys","R-K","PEPTIDE1{R.K}$$$$V2.0","not bitter",1
+762,"RL","ArgLeu","R-L","PEPTIDE1{R.L}$$$$V2.0","bitter",1
+763,"RLL","ArgLeuLeu","R-L-L","PEPTIDE1{R.L.L}$$$$V2.0","bitter",1
+764,"RM","ArgMet","R-M","PEPTIDE1{R.M}$$$$V2.0","not bitter",1
+765,"RMP","ArgMetPro","R-M-P","PEPTIDE1{R.M.P}$$$$V2.0","not bitter",1
+766,"RN","ArgAsn","R-N","PEPTIDE1{R.N}$$$$V2.0","not bitter",1
+767,"RP","ArgPro","R-P","PEPTIDE1{R.P}$$$$V2.0","bitter",1
+768,"RPF","ArgProPhe","R-P-F","PEPTIDE1{R.P.F}$$$$V2.0","bitter",1
+769,"RPFF","ArgProPhePhe","R-P-F-F","PEPTIDE1{R.P.F.F}$$$$V2.0","bitter",1
+770,"RPFFGG","ArgProPhePheGlyGly","R-P-F-F-G-G","PEPTIDE1{R.P.F.F.G.G}$$$$V2.0","bitter",1
+771,"RPFFRPFF","ArgProPhePheArgProPhePhe","R-P-F-F-R-P-F-F","PEPTIDE1{R.P.F.F.R.P.F.F}$$$$V2.0","bitter",1
+772,"RPFFRPFFRPFF","ArgProPhePheArgProPhePheArgProPhePhe","R-P-F-F-R-P-F-F-R-P-F-F","PEPTIDE1{R.P.F.F.R.P.F.F.R.P.F.F}$$$$V2.0","bitter",1
+773,"RPFG","ArgProPheGly","R-P-F-G","PEPTIDE1{R.P.F.G}$$$$V2.0","bitter",1
+774,"RPG","ArgProGly","R-P-G","PEPTIDE1{R.P.G}$$$$V2.0","bitter",1
+775,"RPGF","ArgProGlyPhe","R-P-G-F","PEPTIDE1{R.P.G.F}$$$$V2.0","bitter",1
+776,"RPGFF","ArgProGlyPhePhe","R-P-G-F-F","PEPTIDE1{R.P.G.F.F}$$$$V2.0","bitter",1
+777,"RPGG","ArgProGlyGly","R-P-G-G","PEPTIDE1{R.P.G.G}$$$$V2.0","not bitter",1
+778,"RPGGFF","ArgProGlyGlyPhePhe","R-P-G-G-F-F","PEPTIDE1{R.P.G.G.F.F}$$$$V2.0","bitter",1
+779,"RPHR","ArgProHisArg","R-P-H-R","PEPTIDE1{R.P.H.R}$$$$V2.0","bitter",1
+780,"RPKHPIK","ArgProLysHisProIleLys","R-P-K-H-P-I-K","PEPTIDE1{R.P.K.H.P.I.K}$$$$V2.0","bitter",1
+781,"RPKHPIKHQ","ArgProLysHisProIleLysHisGln","R-P-K-H-P-I-K-H-Q","PEPTIDE1{R.P.K.H.P.I.K.H.Q}$$$$V2.0","bitter",1
+782,"RPKHPIKHQGLPQ","ArgProLysHisProIleLysHisGlnGlyLeuProGln","R-P-K-H-P-I-K-H-Q-G-L-P-Q","PEPTIDE1{R.P.K.H.P.I.K.H.Q.G.L.P.Q}$$$$V2.0","bitter",1
+783,"RPNPFENR","ArgProAsnProPheGluAsnArg","R-P-N-P-F-E-N-R","PEPTIDE1{R.P.N.P.F.E.N.R}$$$$V2.0","not bitter",1
+785,"RPPFIV","ArgProProPheIleVal","R-P-P-F-I-V","PEPTIDE1{R.P.P.F.I.V}$$$$V2.0","bitter",1
+786,"RPPPFFF","ArgProProProPhePhePhe","R-P-P-P-F-F-F","PEPTIDE1{R.P.P.P.F.F.F}$$$$V2.0","bitter",1
+787,"RQ","ArgGln","R-Q","PEPTIDE1{R.Q}$$$$V2.0","not bitter",1
+788,"RR","ArgArg","R-R","PEPTIDE1{R.R}$$$$V2.0","bitter",1
+790,"RRPFF","ArgArgProPhePhe","R-R-P-F-F","PEPTIDE1{R.R.P.F.F}$$$$V2.0","bitter",1
+791,"RRPP","ArgArgProPro","R-R-P-P","PEPTIDE1{R.R.P.P}$$$$V2.0","bitter",1
+792,"RRPPFF","ArgArgProProPhePhe","R-R-P-P-F-F","PEPTIDE1{R.R.P.P.F.F}$$$$V2.0","bitter",1
+793,"RRPPGF","ArgArgProProGlyPhe","R-R-P-P-G-F","PEPTIDE1{R.R.P.P.G.F}$$$$V2.0","bitter",1
+794,"RRPPGG","ArgArgProProGlyGly","R-R-P-P-G-G","PEPTIDE1{R.R.P.P.G.G}$$$$V2.0","not bitter",1
+795,"RRPPPFFF","ArgArgProProProPhePhePhe","R-R-P-P-P-F-F-F","PEPTIDE1{R.R.P.P.P.F.F.F}$$$$V2.0","bitter",1
+796,"RRR","ArgArgArg","R-R-R","PEPTIDE1{R.R.R}$$$$V2.0","bitter",1
+797,"RS","ArgSer","R-S","PEPTIDE1{R.S}$$$$V2.0","not bitter",1
+798,"RT","ArgThr","R-T","PEPTIDE1{R.T}$$$$V2.0","not bitter",1
+799,"RV","ArgVal","R-V","PEPTIDE1{R.V}$$$$V2.0","not bitter",1
+800,"RW","ArgTrp","R-W","PEPTIDE1{R.W}$$$$V2.0","bitter",1
+801,"RWDGRG","ArgTrpAspGlyArgGly","R-W-D-G-R-G","PEPTIDE1{R.W.D.G.R.G}$$$$V2.0","not bitter",1
+802,"RY","ArgTyr","R-Y","PEPTIDE1{R.Y}$$$$V2.0","bitter",1
+803,"S","Ser","S","PEPTIDE1{S}$$$$V2.0","not bitter",1
+804,"SAEFG","SerAlaGluPheGly","S-A-E-F-G","PEPTIDE1{S.A.E.F.G}$$$$V2.0","bitter",1
+807,"SD","SerAsp","S-D","PEPTIDE1{S.D}$$$$V2.0","not bitter",1
+808,"SDNF","SerAspAsnPhe","S-D-N-F","PEPTIDE1{S.D.N.F}$$$$V2.0","not bitter",1
+809,"SE","SerGlu","S-E","PEPTIDE1{S.E}$$$$V2.0","not bitter",1
+810,"SEASNNK","SerGluAlaSerAsnAsnLys","S-E-A-S-N-N-K","PEPTIDE1{S.E.A.S.N.N.K}$$$$V2.0","not bitter",1
+811,"SEE","SerGluGlu","S-E-E","PEPTIDE1{S.E.E}$$$$V2.0","not bitter",1
+814,"SF","SerPhe","S-F","PEPTIDE1{S.F}$$$$V2.0","not bitter",1
+815,"SFE","SerPheGlu","S-F-E","PEPTIDE1{S.F.E}$$$$V2.0","not bitter",1
+816,"SGVVAAVNDAAKDFHG","SerGlyValValAlaAlaValAsnAspAlaAlaLysAspPheHisGly","S-G-V-V-A-A-V-N-D-A-A-K-D-F-H-G","PEPTIDE1{S.G.V.V.A.A.V.N.D.A.A.K.D.F.H.G}$$$$V2.0","not bitter",1
+817,"SIEDVEESRNK","SerIleGluAspValGluGluSerArgAsnLys","S-I-E-D-V-E-E-S-R-N-K","PEPTIDE1{S.I.E.D.V.E.E.S.R.N.K}$$$$V2.0","bitter",1
+818,"SIIDT","SerIleIleAspThr","S-I-I-D-T","PEPTIDE1{S.I.I.D.T}$$$$V2.0","bitter",1
+819,"SITRINK","SerIleThrArgIleAsnLys","S-I-T-R-I-N-K","PEPTIDE1{S.I.T.R.I.N.K}$$$$V2.0","not bitter",1
+820,"SKGL","SerLysGlyLeu","S-K-G-L","PEPTIDE1{S.K.G.L}$$$$V2.0","bitter",1
+821,"SL","SerLeu","S-L","PEPTIDE1{S.L}$$$$V2.0","bitter",1
+822,"SLA","SerLeuAla","S-L-A","PEPTIDE1{S.L.A}$$$$V2.0","bitter",1
+823,"SLPQNIPPLTQTPVVVPPFLQPEVM","SerLeuProGlnAsnIleProProLeuThrGlnThrProValValValProProPheLeuGlnProGluValMet","S-L-P-Q-N-I-P-P-L-T-Q-T-P-V-V-V-P-P-F-L-Q-P-E-V-M","PEPTIDE1{S.L.P.Q.N.I.P.P.L.T.Q.T.P.V.V.V.P.P.F.L.Q.P.E.V.M}$$$$V2.0","not bitter",1
+824,"SLPQNIPPLTQTPVVVPPFLQPEVMGVSK","SerLeuProGlnAsnIleProProLeuThrGlnThrProValValValProProPheLeuGlnProGluValMetGlyValSerLys","S-L-P-Q-N-I-P-P-L-T-Q-T-P-V-V-V-P-P-F-L-Q-P-E-V-M-G-V-S-K","PEPTIDE1{S.L.P.Q.N.I.P.P.L.T.Q.T.P.V.V.V.P.P.F.L.Q.P.E.V.M.G.V.S.K}$$$$V2.0","not bitter",1
+825,"SLSQSKVLPV","SerLeuSerGlnSerLysValLeuProVal","S-L-S-Q-S-K-V-L-P-V","PEPTIDE1{S.L.S.Q.S.K.V.L.P.V}$$$$V2.0","not bitter",1
+826,"SLVYPFPGPIHNS","SerLeuValTyrProPheProGlyProIleHisAsnSer","S-L-V-Y-P-F-P-G-P-I-H-N-S","PEPTIDE1{S.L.V.Y.P.F.P.G.P.I.H.N.S}$$$$V2.0","bitter",1
+827,"SLVYPFPGPIPNSL","SerLeuValTyrProPheProGlyProIleProAsnSerLeu","S-L-V-Y-P-F-P-G-P-I-P-N-S-L","PEPTIDE1{S.L.V.Y.P.F.P.G.P.I.P.N.S.L}$$$$V2.0","bitter",1
+830,"SMKQGIHAQQKEPMIGVNQELAY","SerMetLysGlnGlyIleHisAlaGlnGlnLysGluProMetIleGlyValAsnGlnGluLeuAlaTyr","S-M-K-Q-G-I-H-A-Q-Q-K-E-P-M-I-G-V-N-Q-E-L-A-Y","PEPTIDE1{S.M.K.Q.G.I.H.A.Q.Q.K.E.P.M.I.G.V.N.Q.E.L.A.Y}$$$$V2.0","not bitter",1
+831,"SP","SerPro","S-P","PEPTIDE1{S.P}$$$$V2.0","bitter",1
+832,"SPE","SerProGlu","S-P-E","PEPTIDE1{S.P.E}$$$$V2.0","not bitter",1
+833,"SPPPG","SerProProProGly","S-P-P-P-G","PEPTIDE1{S.P.P.P.G}$$$$V2.0","bitter",1
+836,"SPV","SerProVal","S-P-V","PEPTIDE1{S.P.V}$$$$V2.0","not bitter",1
+837,"SR","SerArg","S-R","PEPTIDE1{S.R}$$$$V2.0","not bitter",1
+838,"STMLLESER","SerThrMetLeuLeuGluSerGluArg","S-T-M-L-L-E-S-E-R","PEPTIDE1{S.T.M.L.L.E.S.E.R}$$$$V2.0","not bitter",1
+839,"SVP","SerValPro","S-V-P","PEPTIDE1{S.V.P}$$$$V2.0","bitter",1
+840,"SYNPR","SerTyrAsnProArg","S-Y-N-P-R","PEPTIDE1{S.Y.N.P.R}$$$$V2.0","bitter",1
+841,"T","Thr","T","PEPTIDE1{T}$$$$V2.0","not bitter",1
+842,"TAY","ThrAlaTyr","T-A-Y","PEPTIDE1{T.A.Y}$$$$V2.0","not bitter",1
+843,"TDAPSFSDIPNPIGSENSEKTTMPLW","ThrAspAlaProSerPheSerAspIleProAsnProIleGlySerGluAsnSerGluLysThrThrMetProLeuTrp","T-D-A-P-S-F-S-D-I-P-N-P-I-G-S-E-N-S-E-K-T-T-M-P-L-W","PEPTIDE1{T.D.A.P.S.F.S.D.I.P.N.P.I.G.S.E.N.S.E.K.T.T.M.P.L.W}$$$$V2.0","not bitter",1
+844,"TDVENLHLPPLL","ThrAspValGluAsnLeuHisLeuProProLeuLeu","T-D-V-E-N-L-H-L-P-P-L-L","PEPTIDE1{T.D.V.E.N.L.H.L.P.P.L.L}$$$$V2.0","bitter",1
+845,"TDVEQEGD","ThrAspValGluGlnGluGlyAsp","T-D-V-E-Q-E-G-D","PEPTIDE1{T.D.V.E.Q.E.G.D}$$$$V2.0","not bitter",1
+846,"TE","ThrGlu","T-E","PEPTIDE1{T.E}$$$$V2.0","not bitter",1
+847,"TESSSE","ThrGluSerSerSerGlu","T-E-S-S-S-E","PEPTIDE1{T.E.S.S.S.E}$$$$V2.0","not bitter",1
+848,"TF","ThrPhe","T-F","PEPTIDE1{T.F}$$$$V2.0","not bitter",1
+849,"TGDPEK","ThrGlyAspProGluLys","T-G-D-P-E-K","PEPTIDE1{T.G.D.P.E.K}$$$$V2.0","not bitter",1
+850,"TLTDVENLHL","ThrLeuThrAspValGluAsnLeuHisLeu","T-L-T-D-V-E-N-L-H-L","PEPTIDE1{T.L.T.D.V.E.N.L.H.L}$$$$V2.0","not bitter",1
+851,"TP","ThrPro","T-P","PEPTIDE1{T.P}$$$$V2.0","not bitter",1
+852,"TPL","ThrProLeu","T-P-L","PEPTIDE1{T.P.L}$$$$V2.0","not bitter",1
+853,"TPVVVPPFLQPEVM","ThrProValValValProProPheLeuGlnProGluValMet","T-P-V-V-V-P-P-F-L-Q-P-E-V-M","PEPTIDE1{T.P.V.V.V.P.P.F.L.Q.P.E.V.M}$$$$V2.0","not bitter",1
+854,"TQTPVVVPPFL","ThrGlnThrProValValValProProPheLeu","T-Q-T-P-V-V-V-P-P-F-L","PEPTIDE1{T.Q.T.P.V.V.V.P.P.F.L}$$$$V2.0","bitter",1
+855,"TQTPVVVPPFLQPE","ThrGlnThrProValValValProProPheLeuGlnProGlu","T-Q-T-P-V-V-V-P-P-F-L-Q-P-E","PEPTIDE1{T.Q.T.P.V.V.V.P.P.F.L.Q.P.E}$$$$V2.0","bitter",1
+856,"TR","ThrArg","T-R","PEPTIDE1{T.R}$$$$V2.0","not bitter",1
+857,"TTMPLW","ThrThrMetProLeuTrp","T-T-M-P-L-W","PEPTIDE1{T.T.M.P.L.W}$$$$V2.0","bitter",1
+858,"TYNPK","ThrTyrAsnProLys","T-Y-N-P-K","PEPTIDE1{T.Y.N.P.K}$$$$V2.0","bitter",1
+859,"TYNPR","ThrTyrAsnProArg","T-Y-N-P-R","PEPTIDE1{T.Y.N.P.R}$$$$V2.0","bitter",1
+860,"V","Val","V","PEPTIDE1{V}$$$$V2.0","bitter",1
+861,"VA","ValAla","V-A","PEPTIDE1{V.A}$$$$V2.0","bitter",1
+862,"VAEQE","ValAlaGluGlnGlu","V-A-E-Q-E","PEPTIDE1{V.A.E.Q.E}$$$$V2.0","bitter",1
+863,"VAPFPEVF","ValAlaProPheProGluValPhe","V-A-P-F-P-E-V-F","PEPTIDE1{V.A.P.F.P.E.V.F}$$$$V2.0","bitter",1
+864,"VAPFPEVFGKE","ValAlaProPheProGluValPheGlyLysGlu","V-A-P-F-P-E-V-F-G-K-E","PEPTIDE1{V.A.P.F.P.E.V.F.G.K.E}$$$$V2.0","bitter",1
+865,"VD","ValAsp","V-D","PEPTIDE1{V.D}$$$$V2.0","bitter",1
+866,"VE","ValGlu","V-E","PEPTIDE1{V.E}$$$$V2.0","bitter",1
+867,"VENLHLPLPLL","ValGluAsnLeuHisLeuProLeuProLeuLeu","V-E-N-L-H-L-P-L-P-L-L","PEPTIDE1{V.E.N.L.H.L.P.L.P.L.L}$$$$V2.0","bitter",1
+868,"VENLHLPLPLLQSW","ValGluAsnLeuHisLeuProLeuProLeuLeuGlnSerTrp","V-E-N-L-H-L-P-L-P-L-L-Q-S-W","PEPTIDE1{V.E.N.L.H.L.P.L.P.L.L.Q.S.W}$$$$V2.0","bitter",1
+869,"VENQQLAL","ValGluAsnGlnGlnLeuAlaLeu","V-E-N-Q-Q-L-A-L","PEPTIDE1{V.E.N.Q.Q.L.A.L}$$$$V2.0","not bitter",1
+870,"VEVFAPPF","ValGluValPheAlaProProPhe","V-E-V-F-A-P-P-F","PEPTIDE1{V.E.V.F.A.P.P.F}$$$$V2.0","bitter",1
+871,"VF","ValPhe","V-F","PEPTIDE1{V.F}$$$$V2.0","bitter",1
+872,"VFGKEKVNEL","ValPheGlyLysGluLysValAsnGluLeu","V-F-G-K-E-K-V-N-E-L","PEPTIDE1{V.F.G.K.E.K.V.N.E.L}$$$$V2.0","bitter",1
+873,"VG","ValGly","V-G","PEPTIDE1{V.G}$$$$V2.0","bitter",1
+874,"VI","ValIle","V-I","PEPTIDE1{V.I}$$$$V2.0","bitter",1
+875,"VIF","ValIlePhe","V-I-F","PEPTIDE1{V.I.F}$$$$V2.0","bitter",1
+876,"VIFPPG","ValIlePheProProGly","V-I-F-P-P-G","PEPTIDE1{V.I.F.P.P.G}$$$$V2.0","bitter",1
+877,"VIFPPGR","ValIlePheProProGlyArg","V-I-F-P-P-G-R","PEPTIDE1{V.I.F.P.P.G.R}$$$$V2.0","bitter",1
+878,"VIIPFPG","ValIleIleProPheProGly","V-I-I-P-F-P-G","PEPTIDE1{V.I.I.P.F.P.G}$$$$V2.0","bitter",1
+879,"VIIPFPGR","ValIleIleProPheProGlyArg","V-I-I-P-F-P-G-R","PEPTIDE1{V.I.I.P.F.P.G.R}$$$$V2.0","bitter",1
+880,"VIPFPGR","ValIleProPheProGlyArg","V-I-P-F-P-G-R","PEPTIDE1{V.I.P.F.P.G.R}$$$$V2.0","bitter",1
+881,"VKEAMAPK","ValLysGluAlaMetAlaProLys","V-K-E-A-M-A-P-K","PEPTIDE1{V.K.E.A.M.A.P.K}$$$$V2.0","not bitter",1
+882,"VL","ValLeu","V-L","PEPTIDE1{V.L}$$$$V2.0","bitter",1
+883,"VLL","ValLeuLeu","V-L-L","PEPTIDE1{V.L.L}$$$$V2.0","not bitter",1
+884,"VLPTDQNFILR","ValLeuProThrAspGlnAsnPheIleLeuArg","V-L-P-T-D-Q-N-F-I-L-R","PEPTIDE1{V.L.P.T.D.Q.N.F.I.L.R}$$$$V2.0","not bitter",1
+885,"VLPVPEK","ValLeuProValProGluLys","V-L-P-V-P-E-K","PEPTIDE1{V.L.P.V.P.E.K}$$$$V2.0","not bitter",1
+886,"VLPVPQ","ValLeuProValProGln","V-L-P-V-P-Q","PEPTIDE1{V.L.P.V.P.Q}$$$$V2.0","bitter",1
+887,"VLPVPQK","ValLeuProValProGlnLys","V-L-P-V-P-Q-K","PEPTIDE1{V.L.P.V.P.Q.K}$$$$V2.0","not bitter",1
+888,"VLPVPQKAVPYPQ","ValLeuProValProGlnLysAlaValProTyrProGln","V-L-P-V-P-Q-K-A-V-P-Y-P-Q","PEPTIDE1{V.L.P.V.P.Q.K.A.V.P.Y.P.Q}$$$$V2.0","bitter",1
+889,"VLSLNSGTEAVEAAIK","ValLeuSerLeuAsnSerGlyThrGluAlaValGluAlaAlaIleLys","V-L-S-L-N-S-G-T-E-A-V-E-A-A-I-K","PEPTIDE1{V.L.S.L.N.S.G.T.E.A.V.E.A.A.I.K}$$$$V2.0","not bitter",1
+890,"VNELSK","ValAsnGluLeuSerLys","V-N-E-L-S-K","PEPTIDE1{V.N.E.L.S.K}$$$$V2.0","not bitter",1
+891,"VP","ValPro","V-P","PEPTIDE1{V.P}$$$$V2.0","not bitter",1
+892,"VPE","ValProGlu","V-P-E","PEPTIDE1{V.P.E}$$$$V2.0","not bitter",1
+893,"VPGEIVESL","ValProGlyGluIleValGluSerLeu","V-P-G-E-I-V-E-S-L","PEPTIDE1{V.P.G.E.I.V.E.S.L}$$$$V2.0","bitter",1
+894,"VPLGTQYTDAPSF","ValProLeuGlyThrGlnTyrThrAspAlaProSerPhe","V-P-L-G-T-Q-Y-T-D-A-P-S-F","PEPTIDE1{V.P.L.G.T.Q.Y.T.D.A.P.S.F}$$$$V2.0","bitter",1
+895,"VPNSAEER","ValProAsnSerAlaGluGluArg","V-P-N-S-A-E-E-R","PEPTIDE1{V.P.N.S.A.E.E.R}$$$$V2.0","not bitter",1
+897,"VPPFLE","ValProProPheLeuGlu","V-P-P-F-L-E","PEPTIDE1{V.P.P.F.L.E}$$$$V2.0","bitter",1
+898,"VPPFLQ","ValProProPheLeuGln","V-P-P-F-L-Q","PEPTIDE1{V.P.P.F.L.Q}$$$$V2.0","bitter",1
+899,"VPPFLQPE","ValProProPheLeuGlnProGlu","V-P-P-F-L-Q-P-E","PEPTIDE1{V.P.P.F.L.Q.P.E}$$$$V2.0","not bitter",1
+901,"VPY","ValProTyr","V-P-Y","PEPTIDE1{V.P.Y}$$$$V2.0","not bitter",1
+902,"VR","ValArg","V-R","PEPTIDE1{V.R}$$$$V2.0","not bitter",1
+903,"VRGPFP","ValArgGlyProPhePro","V-R-G-P-F-P","PEPTIDE1{V.R.G.P.F.P}$$$$V2.0","bitter",1
+904,"VRSY","ValArgSerTyr","V-R-S-Y","PEPTIDE1{V.R.S.Y}$$$$V2.0","not bitter",1
+905,"VSEEEDIAMEK","ValSerGluGluGluAspIleAlaMetGluLys","V-S-E-E-E-D-I-A-M-E-K","PEPTIDE1{V.S.E.E.E.D.I.A.M.E.K}$$$$V2.0","not bitter",1
+906,"VTADESQQDVLK","ValThrAlaAspGluSerGlnGlnAspValLeuLys","V-T-A-D-E-S-Q-Q-D-V-L-K","PEPTIDE1{V.T.A.D.E.S.Q.Q.D.V.L.K}$$$$V2.0","not bitter",1
+907,"VV","ValVal","V-V","PEPTIDE1{V.V}$$$$V2.0","bitter",1
+908,"VVE","ValValGlu","V-V-E","PEPTIDE1{V.V.E}$$$$V2.0","not bitter",1
+909,"VVG","ValValGly","V-V-G","PEPTIDE1{V.V.G}$$$$V2.0","not bitter",1
+910,"VVPPFL","ValValProProPheLeu","V-V-P-P-F-L","PEPTIDE1{V.V.P.P.F.L}$$$$V2.0","bitter",1
+911,"VVV","ValValVal","V-V-V","PEPTIDE1{V.V.V}$$$$V2.0","bitter",1
+912,"VVVGG","ValValValGlyGly","V-V-V-G-G","PEPTIDE1{V.V.V.G.G}$$$$V2.0","not bitter",1
+913,"VVVPP","ValValValProPro","V-V-V-P-P","PEPTIDE1{V.V.V.P.P}$$$$V2.0","bitter",1
+914,"VVVPPFL","ValValValProProPheLeu","V-V-V-P-P-F-L","PEPTIDE1{V.V.V.P.P.F.L}$$$$V2.0","bitter",1
+915,"VVVPPFLQP","ValValValProProPheLeuGlnPro","V-V-V-P-P-F-L-Q-P","PEPTIDE1{V.V.V.P.P.F.L.Q.P}$$$$V2.0","bitter",1
+916,"VVVV","ValValValVal","V-V-V-V","PEPTIDE1{V.V.V.V}$$$$V2.0","bitter",1
+917,"VVYPWTQRF","ValValTyrProTrpThrGlnArgPhe","V-V-Y-P-W-T-Q-R-F","PEPTIDE1{V.V.Y.P.W.T.Q.R.F}$$$$V2.0","bitter",1
+918,"VY","ValTyr","V-Y","PEPTIDE1{V.Y}$$$$V2.0","bitter",1
+919,"VYP","ValTyrPro","V-Y-P","PEPTIDE1{V.Y.P}$$$$V2.0","bitter",1
+920,"VYPF","ValTyrProPhe","V-Y-P-F","PEPTIDE1{V.Y.P.F}$$$$V2.0","bitter",1
+921,"VYPFGGGINH","ValTyrProPheGlyGlyGlyIleAsnHis","V-Y-P-F-G-G-G-I-N-H","PEPTIDE1{V.Y.P.F.G.G.G.I.N.H}$$$$V2.0","bitter",1
+922,"VYPFPGPIPN","ValTyrProPheProGlyProIleProAsn","V-Y-P-F-P-G-P-I-P-N","PEPTIDE1{V.Y.P.F.P.G.P.I.P.N}$$$$V2.0","bitter",1
+923,"VYPFPGPIPNSLPQNIPPLTQTPVVVPPFLQPEV","ValTyrProPheProGlyProIleProAsnSerLeuProGlnAsnIleProProLeuThrGlnThrProValValValProProPheLeuGlnProGluVal","V-Y-P-F-P-G-P-I-P-N-S-L-P-Q-N-I-P-P-L-T-Q-T-P-V-V-V-P-P-F-L-Q-P-E-V","PEPTIDE1{V.Y.P.F.P.G.P.I.P.N.S.L.P.Q.N.I.P.P.L.T.Q.T.P.V.V.V.P.P.F.L.Q.P.E.V}$$$$V2.0","not bitter",1
+924,"VYPFPGPIPNSLPQNIPPLTQTPVVVPPFLQPEVM","ValTyrProPheProGlyProIleProAsnSerLeuProGlnAsnIleProProLeuThrGlnThrProValValValProProPheLeuGlnProGluValMet","V-Y-P-F-P-G-P-I-P-N-S-L-P-Q-N-I-P-P-L-T-Q-T-P-V-V-V-P-P-F-L-Q-P-E-V-M","PEPTIDE1{V.Y.P.F.P.G.P.I.P.N.S.L.P.Q.N.I.P.P.L.T.Q.T.P.V.V.V.P.P.F.L.Q.P.E.V.M}$$$$V2.0","not bitter",1
+925,"VYPFPPG","ValTyrProPheProProGly","V-Y-P-F-P-P-G","PEPTIDE1{V.Y.P.F.P.P.G}$$$$V2.0","bitter",1
+926,"VYPFPPGI","ValTyrProPheProProGlyIle","V-Y-P-F-P-P-G-I","PEPTIDE1{V.Y.P.F.P.P.G.I}$$$$V2.0","bitter",1
+927,"VYPFPPGIGG","ValTyrProPheProProGlyIleGlyGly","V-Y-P-F-P-P-G-I-G-G","PEPTIDE1{V.Y.P.F.P.P.G.I.G.G}$$$$V2.0","bitter",1
+928,"VYPFPPGINH","ValTyrProPheProProGlyIleAsnHis","V-Y-P-F-P-P-G-I-N-H","PEPTIDE1{V.Y.P.F.P.P.G.I.N.H}$$$$V2.0","bitter",1
+929,"VYPFPPIGNH","ValTyrProPheProProIleGlyAsnHis","V-Y-P-F-P-P-I-G-N-H","PEPTIDE1{V.Y.P.F.P.P.I.G.N.H}$$$$V2.0","bitter",1
+935,"W","Trp","W","PEPTIDE1{W}$$$$V2.0","bitter",1
+939,"WD","TrpAsp","W-D","PEPTIDE1{W.D}$$$$V2.0","not bitter",1
+940,"WDDMEK","TrpAspAspMetGluLys","W-D-D-M-E-K","PEPTIDE1{W.D.D.M.E.K}$$$$V2.0","not bitter",1
+941,"WE","TrpGlu","W-E","PEPTIDE1{W.E}$$$$V2.0","bitter",1
+942,"WF","TrpPhe",,,"not tested",1
+944,"WL","TrpLeu",,,"not tested",1
+946,"WMHQPHQPLPPTVMFPPQ","TrpMetHisGlnProHisGlnProLeuProProThrValMetPheProProGln","W-M-H-Q-P-H-Q-P-L-P-P-T-V-M-F-P-P-Q","PEPTIDE1{W.M.H.Q.P.H.Q.P.L.P.P.T.V.M.F.P.P.Q}$$$$V2.0","bitter",1
+948,"WP","TrpPro",,,"not tested",1
+949,"WR","TrpArg","W-R","PEPTIDE1{W.R}$$$$V2.0","bitter",1
+950,"WVNEEDHL","TrpValAsnGluGluAspHisLeu","W-V-N-E-E-D-H-L","PEPTIDE1{W.V.N.E.E.D.H.L}$$$$V2.0","not bitter",1
+951,"WW","TrpTrp","W-W","PEPTIDE1{W.W}$$$$V2.0","bitter",1
+955,"WWW","TrpTrpTrp",,,"not tested",1
+961,"Y","Tyr","Y","PEPTIDE1{Y}$$$$V2.0","bitter",1
+962,"YE","TyrGlu","Y-E","PEPTIDE1{Y.E}$$$$V2.0","bitter",1
+963,"YF","TyrPhe","Y-F","PEPTIDE1{Y.F}$$$$V2.0","bitter",1
+964,"YFL","TyrPheLeu","Y-F-L","PEPTIDE1{Y.F.L}$$$$V2.0","bitter",1
+965,"YFYPEL","TyrPheTyrProGluLeu","Y-F-Y-P-E-L","PEPTIDE1{Y.F.Y.P.E.L}$$$$V2.0","bitter",1
+966,"YFYPELF","TyrPheTyrProGluLeuPhe","Y-F-Y-P-E-L-F","PEPTIDE1{Y.F.Y.P.E.L.F}$$$$V2.0","bitter",1
+967,"YG","TyrGly","Y-G","PEPTIDE1{Y.G}$$$$V2.0","bitter",1
+968,"YGDG","TyrGlyAspGly","Y-G-D-G","PEPTIDE1{Y.G.D.G}$$$$V2.0","not bitter",1
+969,"YGG","TyrGlyGly","Y-G-G","PEPTIDE1{Y.G.G}$$$$V2.0","bitter",1
+970,"YGGTPPFV","TyrGlyGlyThrProProPheVal","Y-G-G-T-P-P-F-V","PEPTIDE1{Y.G.G.T.P.P.F.V}$$$$V2.0","not bitter",1
+971,"YGLF","TyrGlyLeuPhe","Y-G-L-F","PEPTIDE1{Y.G.L.F}$$$$V2.0","bitter",1
+972,"YGY","TyrGlyTyr","Y-G-Y","PEPTIDE1{Y.G.Y}$$$$V2.0","bitter",1
+975,"YL","TyrLeu","Y-L","PEPTIDE1{Y.L}$$$$V2.0","bitter",1
+976,"YLASCLSSVKEEK","TyrLeuAlaSerCysLeuSerSerValLysGluGluLys","Y-L-A-S-C-L-S-S-V-K-E-E-K","PEPTIDE1{Y.L.A.S.C.L.S.S.V.K.E.E.K}$$$$V2.0","not bitter",1
+977,"YLEQLLR","TyrLeuGluGlnLeuLeuArg","Y-L-E-Q-L-L-R","PEPTIDE1{Y.L.E.Q.L.L.R}$$$$V2.0","bitter",1
+978,"YLGYLEQLLR","TyrLeuGlyTyrLeuGluGlnLeuLeuArg","Y-L-G-Y-L-E-Q-L-L-R","PEPTIDE1{Y.L.G.Y.L.E.Q.L.L.R}$$$$V2.0","bitter",1
+979,"YP","TyrPro","Y-P","PEPTIDE1{Y.P}$$$$V2.0","bitter",1
+980,"YPF","TyrProPhe","Y-P-F","PEPTIDE1{Y.P.F}$$$$V2.0","bitter",1
+981,"YPFPGPI","TyrProPheProGlyProIle","Y-P-F-P-G-P-I","PEPTIDE1{Y.P.F.P.G.P.I}$$$$V2.0","bitter",1
+982,"YPFPGPIHN","TyrProPheProGlyProIleHisAsn","Y-P-F-P-G-P-I-H-N","PEPTIDE1{Y.P.F.P.G.P.I.H.N}$$$$V2.0","bitter",1
+983,"YPFPGPIHNS","TyrProPheProGlyProIleHisAsnSer","Y-P-F-P-G-P-I-H-N-S","PEPTIDE1{Y.P.F.P.G.P.I.H.N.S}$$$$V2.0","bitter",1
+986,"YPFPGPIPN","TyrProPheProGlyProIleProAsn","Y-P-F-P-G-P-I-P-N","PEPTIDE1{Y.P.F.P.G.P.I.P.N}$$$$V2.0","bitter",1
+987,"YPFPGPIPNS","TyrProPheProGlyProIleProAsnSer","Y-P-F-P-G-P-I-P-N-S","PEPTIDE1{Y.P.F.P.G.P.I.P.N.S}$$$$V2.0","bitter",1
+989,"YPVEPFTER","TyrProValGluProPheThrGluArg","Y-P-V-E-P-F-T-E-R","PEPTIDE1{Y.P.V.E.P.F.T.E.R}$$$$V2.0","bitter",1
+990,"YPVQPFTESQSLTLTDVENLHLPPLLLQSWMHQPHQPLPPTVMFPPQSVLSLSQSK","TyrProValGlnProPheThrGluSerGlnSerLeuThrLeuThrAspValGluAsnLeuHisLeuProProLeuLeuLeuGlnSerTrpMetHisGlnProHisGlnProLeuProProThrValMetPheProProGlnSerValLeuSerLeuSerGlnSerLys","Y-P-V-Q-P-F-T-E-S-Q-S-L-T-L-T-D-V-E-N-L-H-L-P-P-L-L-L-Q-S-W-M-H-Q-P-H-Q-P-L-P-P-T-V-M-F-P-P-Q-S-V-L-S-L-S-Q-S-K","PEPTIDE1{Y.P.V.Q.P.F.T.E.S.Q.S.L.T.L.T.D.V.E.N.L.H.L.P.P.L.L.L.Q.S.W.M.H.Q.P.H.Q.P.L.P.P.T.V.M.F.P.P.Q.S.V.L.S.L.S.Q.S.K}$$$$V2.0","not bitter",1
+991,"YQEPVLGPVRGPFPI","TyrGlnGluProValLeuGlyProValArgGlyProPheProIle","Y-Q-E-P-V-L-G-P-V-R-G-P-F-P-I","PEPTIDE1{Y.Q.E.P.V.L.G.P.V.R.G.P.F.P.I}$$$$V2.0","bitter",1
+992,"YQEPVLGPVRGPFPII","TyrGlnGluProValLeuGlyProValArgGlyProPheProIleIle","Y-Q-E-P-V-L-G-P-V-R-G-P-F-P-I-I","PEPTIDE1{Y.Q.E.P.V.L.G.P.V.R.G.P.F.P.I.I}$$$$V2.0","bitter",1
+993,"YQEPVLGPVRGPFPIIV","TyrGlnGluProValLeuGlyProValArgGlyProPheProIleIleVal","Y-Q-E-P-V-L-G-P-V-R-G-P-F-P-I-I-V","PEPTIDE1{Y.Q.E.P.V.L.G.P.V.R.G.P.F.P.I.I.V}$$$$V2.0","bitter",1
+994,"YQQKPVAL","TyrGlnGlnLysProValAlaLeu","Y-Q-Q-K-P-V-A-L","PEPTIDE1{Y.Q.Q.K.P.V.A.L}$$$$V2.0","bitter",1
+995,"YQQPVLGPV","TyrGlnGlnProValLeuGlyProVal","Y-Q-Q-P-V-L-G-P-V","PEPTIDE1{Y.Q.Q.P.V.L.G.P.V}$$$$V2.0","not bitter",1
+996,"YQQPVLGPVRGPFPI","TyrGlnGlnProValLeuGlyProValArgGlyProPheProIle","Y-Q-Q-P-V-L-G-P-V-R-G-P-F-P-I","PEPTIDE1{Y.Q.Q.P.V.L.G.P.V.R.G.P.F.P.I}$$$$V2.0","bitter",1
+997,"YQQPVLGPVRGPFPII","TyrGlnGlnProValLeuGlyProValArgGlyProPheProIleIle","Y-Q-Q-P-V-L-G-P-V-R-G-P-F-P-I-I","PEPTIDE1{Y.Q.Q.P.V.L.G.P.V.R.G.P.F.P.I.I}$$$$V2.0","bitter",1
+998,"YQQPVLGPVRGPFPIIV","TyrGlnGlnProValLeuGlyProValArgGlyProPheProIleIleVal","Y-Q-Q-P-V-L-G-P-V-R-G-P-F-P-I-I-V","PEPTIDE1{Y.Q.Q.P.V.L.G.P.V.R.G.P.F.P.I.I.V}$$$$V2.0","bitter",1
+999,"YR","TyrArg","Y-R","PEPTIDE1{Y.R}$$$$V2.0","bitter",1
+1000,"YV","TyrVal","Y-V","PEPTIDE1{Y.V}$$$$V2.0","bitter",1
+1001,"YVPLGTQY","TyrValProLeuGlyThrGlnTyr","Y-V-P-L-G-T-Q-Y","PEPTIDE1{Y.V.P.L.G.T.Q.Y}$$$$V2.0","not bitter",1
+1002,"YY","TyrTyr","Y-Y","PEPTIDE1{Y.Y}$$$$V2.0","bitter",1
+1003,"YYG","TyrTyrGly","Y-Y-G","PEPTIDE1{Y.Y.G}$$$$V2.0","bitter",1
+1004,"YYVPLGTQ","TyrTyrValProLeuGlyThrGln","Y-Y-V-P-L-G-T-Q","PEPTIDE1{Y.Y.V.P.L.G.T.Q}$$$$V2.0","bitter",1
+1005,"YYVPLGTQY","TyrTyrValProLeuGlyThrGlnTyr","Y-Y-V-P-L-G-T-Q-Y","PEPTIDE1{Y.Y.V.P.L.G.T.Q.Y}$$$$V2.0","not bitter",1
+1006,"YYY","TyrTyrTyr","Y-Y-Y","PEPTIDE1{Y.Y.Y}$$$$V2.0","bitter",1
+1007,"EA","GluAla","E-A","PEPTIDE1{E.A}$$$$V2.0","not bitter",1
+1008,"ED","GluAsp","E-D","PEPTIDE1{E.D}$$$$V2.0","not bitter",1
+1009,"EE","GluGlu","E-E","PEPTIDE1{E.E}$$$$V2.0","not bitter",1
+1010,"EF","GluPhe","E-F","PEPTIDE1{E.F}$$$$V2.0","bitter",1
+1011,"EG","GluGly","E-G","PEPTIDE1{E.G}$$$$V2.0","not bitter",1
+1012,"EK","GluLys","E-K","PEPTIDE1{E.K}$$$$V2.0","not bitter",1
+1013,"EL","GluLeu","E-L","PEPTIDE1{E.L}$$$$V2.0","bitter",1
+1015,"EP","GluPro","E-P","PEPTIDE1{E.P}$$$$V2.0","not bitter",1
+1016,"ER","GluArg","E-R","PEPTIDE1{E.R}$$$$V2.0","not bitter",1
+1017,"ES","GluSer","E-S","PEPTIDE1{E.S}$$$$V2.0","not bitter",1
+1018,"ET","GluThr","E-T","PEPTIDE1{E.T}$$$$V2.0","not bitter",1
+1019,"EV","GluVal","E-V","PEPTIDE1{E.V}$$$$V2.0","not bitter",1
+1020,"EW","GluTrp","E-W","PEPTIDE1{E.W}$$$$V2.0","bitter",1
+1021,"EY","GluTyr","E-Y","PEPTIDE1{E.Y}$$$$V2.0","bitter",1
